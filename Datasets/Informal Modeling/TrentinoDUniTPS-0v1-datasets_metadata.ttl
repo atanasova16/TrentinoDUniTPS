@@ -1,0 +1,125 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/2928200a-4fad-4e47-88d1-50cac6934eb0>
+        rdf:type          dcat:Distribution ;
+        dct:description   "Courses offered at University of Trento with professors and degree programs" ;
+        dct:format        "JSON" ;
+        dct:identifier    "91c54d6f-ddce-480e-9214-216f23939c51" ;
+        dct:issued        "2022-07-04T22:05:12Z"^^xsd:dateTime ;
+        dct:language      "Italian" ;
+        dct:license       "Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0) LINK" ;
+        dct:title         "Insegnamenti" ;
+        dcat:accessURL    "https://dati.trentino.it/dataset/insegnamenti-universita-di-trento/resource/91c54d6f-ddce-480e-9214-216f23939c51" ;
+        dcat:downloadURL  "https://dati.unitn.it/du/Course"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/ec1fa3b0-e24e-4eb6-a3a5-e344c780fee1>
+        rdf:type           dcat:Dataset ;
+        dct:created        "2020-02-20T12:00:00Z"^^xsd:dateTime ;
+        dct:description    "Theses from the university of Trento" ;
+        dct:identifier     "UNSTTREN:b6fa0ce8-4cd0-4c7c-875f-6b9a93a82e3c"^^xsd:anyURI ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Organization/c1f39d45-f7bb-45c7-8b02-8b6a0cff0402> ;
+        dct:title          "Theses of the University of Trento" ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/4bd1c8f9-d70d-4239-8da0-f9ed8f6bd406> ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/8e43526c-938a-4e4d-bea7-8f8d63673d7c> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Organization/c1f39d45-f7bb-45c7-8b02-8b6a0cff0402>
+        rdf:type           schema:Organization ;
+        schema:identifier  "UNSTTREN"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/62029e4f-d558-46fd-93df-b030a7435088>
+        rdf:type           dcat:Dataset ;
+        dct:description    "Staff of the University of Trento (at the date of modification of the dataset). Also include guests and temporary staff. For each person, positions held in each unit and contact information are indicated." ;
+        dct:identifier     "UNSTTREN:1a9b06d9-b56c-499a-be5b-f22fa9bcceaf" ;
+        dct:issued         "2020-02-20T21:53:02Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Organization/c1f39d45-f7bb-45c7-8b02-8b6a0cff0402> ;
+        dct:title          "Staff of the University of Trento" ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/fb7437d7-8ffd-4b4a-85e5-c0bb6a165dfd> ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/8e43526c-938a-4e4d-bea7-8f8d63673d7c> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/e1c79fbf-6c2f-425b-aba2-c9b9970eb228>
+        rdf:type           dcat:Dataset ;
+        dct:description    "Publications of the University of Trento, where at least one author currently works in the University (at the date of modification of the dataset). Publications stored in the IRIS archive of the University research database are reported" ;
+        dct:identifier     "UNSTTREN:e1b609a2-072e-4bd5-96f6-449bd340ae2a" ;
+        dct:issued         "2020-02-20T21:40:59Z"^^xsd:dateTime ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Organization/c1f39d45-f7bb-45c7-8b02-8b6a0cff0402> ;
+        dct:title          "Publications of the University of Trento" ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/cb21ae7a-f32e-4ba1-a763-6d3a4e9dcfdb> ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/8e43526c-938a-4e4d-bea7-8f8d63673d7c> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/4bd1c8f9-d70d-4239-8da0-f9ed8f6bd406>
+        rdf:type          dcat:Distribution ;
+        dct:description   "Graduation theses from University of Trento 2020 to 2022" ;
+        dct:identifier    "6e41ca07-c5c2-45a4-b427-379ae6977248" ;
+        dct:issued        "2021-05-11T14:45:12Z"^^xsd:dateTime ;
+        dct:language      "Italian" ;
+        dct:license       "Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0) LINK" ;
+        dct:title         "Tesi di laurea (2020-2022)" ;
+        dcat:accessURL    "https://dati.trentino.it/dataset/tesi-di-laurea-universita-di-trento/resource/6e41ca07-c5c2-45a4-b427-379ae6977248" ;
+        dcat:downloadURL  "https://dati.unitn.it/du/Thesis/2020/2022"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/a9947264-9880-4528-8123-ae0f2e533ef8>
+        rdf:type           dcat:Dataset ;
+        dct:description    "Courses offered by the University of Trento. The dataset is updated annually, providing the complete list of courses for each academic year (at the date of modification of the dataset)." ;
+        dct:identifier     "UNSTTREN:f2b30f8d-5d87-47a9-b3e9-60e412928518" ;
+        dct:issued         "2020-02-20T22:00:15Z"^^xsd:dateTime ;
+        dct:language       "English" ;
+        dct:publisher      <https://www.epos-eu.org/epos-dcat-ap#Organization/c1f39d45-f7bb-45c7-8b02-8b6a0cff0402> ;
+        dct:title          "Courses and degree programs offered by the University of Trento" ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/2928200a-4fad-4e47-88d1-50cac6934eb0> ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/8e43526c-938a-4e4d-bea7-8f8d63673d7c> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/8e43526c-938a-4e4d-bea7-8f8d63673d7c>
+        rdf:type       skos:Concept ;
+        skos:inScheme  <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/81adcd41-5389-477c-b2b6-2527c374231f> .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/81adcd41-5389-477c-b2b6-2527c374231f>
+        rdf:type   skos:ConceptScheme ;
+        dct:title  "Education, culture and sport" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/cb21ae7a-f32e-4ba1-a763-6d3a4e9dcfdb>
+        rdf:type          dcat:Distribution ;
+        dct:description   "Publications of the University of Trento 2022" ;
+        dct:format        "JSON" ;
+        dct:identifier    "aa43ef8c-e9bf-4648-b586-a816ca5337c5" ;
+        dct:issued        "2022-04-28T21:47:09Z"^^xsd:dateTime ;
+        dct:language      "Italian" ;
+        dct:license       "Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0) LINK" ;
+        dct:title         "Pubblicazioni (2022)" ;
+        dcat:accessURL    "https://dati.trentino.it/dataset/pubblicazioni-universita-di-trento/resource/aa43ef8c-e9bf-4648-b586-a816ca5337c5" ;
+        dcat:downloadURL  "https://dati.unitn.it/du/MindProduct/2022"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/fb7437d7-8ffd-4b4a-85e5-c0bb6a165dfd>
+        rdf:type          dcat:Distribution ;
+        dct:description   "Staff of the university of Trento" ;
+        dct:format        "JSON" ;
+        dct:identifier    "57720d62-a7d1-47a4-b6d6-afb76fd27e88" ;
+        dct:issued        "2020-02-20T21:57:20Z"^^xsd:dateTime ;
+        dct:license       "Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0) LINK" ;
+        dct:title         "Staff of the University of Trento" ;
+        dcat:accessURL    "https://dati.trentino.it/dataset/staff-of-the-university-of-trento/resource/57720d62-a7d1-47a4-b6d6-afb76fd27e88" ;
+        dcat:downloadURL  "https://dati.unitn.it/du/Person/en"^^xsd:anyURI .
