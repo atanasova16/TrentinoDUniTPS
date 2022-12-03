@@ -1,0 +1,75 @@
+department_name,department_id,degree_name,degree_id,degree_type
+Dipartimento di Ingegneria Civile Ambientale e Meccanica,STO0008626,Ingegneria civile (LT),ingegneriacivile(lt)_1,LT
+Dipartimento di Economia e Management,STO0008621,Gestione aziendale (LT),gestioneaziendale(lt)_2,LT
+Dipartimento di Lettere e Filosofia,STO0008632,Beni culturali (LT),beniculturali(lt)_3,LT
+Dipartimento di Lettere e Filosofia,STO0008632,Filosofia (LT),filosofia(lt)_4,LT
+Dipartimento di Lettere e Filosofia,STO0008632,Studi storici e filologico-letterari (LT),studistoriciefilologico-letterari(lt)_5,LT
+Facoltà di Giurisprudenza,STO0008624,Giurisprudenza (LM5),giurisprudenza(lm5)_6,LM5
+Dipartimento di Sociologia e Ricerca Sociale,STO0008630,Sociologia (LT),sociologia(lt)_7,LT
+Dipartimento di Ingegneria e Scienza dell'Informazione,STO0008629,Ingegneria dell'informazione e delle comunicazioni (LM),ingegneriadell'informazioneedellecomunicazioni(lm)_8,LM
+Dipartimento di Ingegneria Civile Ambientale e Meccanica,STO0008626,Ingegneria per l'ambiente e il territorio (LT),ingegneriaperl'ambienteeilterritorio(lt)_9,LT
+Dipartimento di Ingegneria Industriale,STO0008625,Ingegneria industriale (LT),ingegneriaindustriale(lt)_10,LT
+Dipartimento di Ingegneria e Scienza dell'Informazione,STO0008629,Informatica (LT),informatica(lt)_11,LT
+Dipartimento di Economia e Management,STO0008621,Amministrazione aziendale e diritto (LT),amministrazioneaziendaleediritto(lt)_12,LT
+Dipartimento di Fisica,STO0008627,Fisica (LT),fisica(lt)_13,LT
+Dipartimento di Ingegneria e Scienza dell'Informazione,STO0008629,Ingegneria dell'informazione e delle comunicazioni (LT),ingegneriadell'informazioneedellecomunicazioni(lt)_14,LT
+Dipartimento di Economia e Management,STO0008621,Economia e management (LT),economiaemanagement(lt)_15,LT
+Dipartimento di Matematica,STO0008628,Matematica (LT),matematica(lt)_16,LT
+"Dipartimento di Biologia Cellulare, Computazionale e Integrata - CIBIO",STO0008662,Scienze e tecnologie biomolecolari (LT),scienzeetecnologiebiomolecolari(lt)_17,LT
+Dipartimento di Matematica,STO0008628,Data science (LM),datascience(lm)_18,LM
+Dipartimento di Ingegneria e Scienza dell'Informazione,STO0008629,Informatica (LM),informatica(lm)_19,LM
+Dipartimento di Lettere e Filosofia,STO0008632,Filologia e critica letteraria (LM),filologiaecriticaletteraria(lm)_20,LM
+Dipartimento di Ingegneria Civile Ambientale e Meccanica,STO0008626,Ingegneria civile (LM),ingegneriacivile(lm)_21,LM
+Dipartimento di Fisica,STO0008627,Fisica (LM),fisica(lm)_22,LM
+Dipartimento di Ingegneria Civile Ambientale e Meccanica,STO0008626,Ingegneria per l'ambiente e il territorio (LM),ingegneriaperl'ambienteeilterritorio(lm)_23,LM
+Dipartimento di Ingegneria Civile Ambientale e Meccanica,STO0008626,Ingegneria edile-architettura (LM5),ingegneriaedile-architettura(lm5)_24,LM5
+Dipartimento di Ingegneria e Scienza dell'Informazione,STO0008629,Artificial intelligence systems (LM),artificialintelligencesystems(lm)_25,LM
+Dipartimento di Economia e Management,STO0008621,Economia e legislazione d'impresa (LM),economiaelegislazioned'impresa(lm)_26,LM
+Dipartimento di Economia e Management,STO0008621,Management (LM),management(lm)_27,LM
+Dipartimento di Psicologia e Scienze Cognitive,STO0008631,Scienze e tecniche di psicologia cognitiva (LT),scienzeetecnichedipsicologiacognitiva(lt)_28,LT
+Dipartimento di Psicologia e Scienze Cognitive,STO0008631,Psicologia (LM),psicologia(lm)_29,LM
+Dipartimento di Lettere e Filosofia,STO0008632,Lingue moderne (LT),linguemoderne(lt)_30,LT
+Dipartimento di Ingegneria Industriale,STO0008625,Ingegneria meccatronica (LM),ingegneriameccatronica(lm)_31,LM
+Dipartimento di Sociologia e Ricerca Sociale,STO0008630,Sociology and social research - sociologia e ricerca sociale (LM),sociologyandsocialresearch-sociologiaericercasociale(lm)_32,LM
+Dipartimento di Matematica,STO0008628,Matematica (LM),matematica(lm)_33,LM
+Dipartimento di Lettere e Filosofia,STO0008632,"Letterature euroamericane, traduzione e critica letteraria (LM)","letteratureeuroamericane,traduzioneecriticaletteraria(lm)_34",LM
+Dipartimento di Psicologia e Scienze Cognitive,STO0008631,Human-computer interaction - interazione persona-macchina (LM),human-computerinteraction-interazionepersona-macchina(lm)_35,LM
+Dipartimento di Economia e Management,STO0008621,International management - management internazionale (LM),internationalmanagement-managementinternazionale(lm)_36,LM
+Dipartimento di Sociologia e Ricerca Sociale,STO0008630,Gestione delle organizzazioni e del territorio (LM),gestionedelleorganizzazioniedelterritorio(lm)_37,LM
+Dipartimento di Economia e Management,STO0008621,Finanza (LM),finanza(lm)_38,LM
+Dipartimento di Psicologia e Scienze Cognitive,STO0008631,Interfacce e tecnologie della comunicazione (LT),interfacceetecnologiedellacomunicazione(lt)_39,LT
+Dipartimento di Sociologia e Ricerca Sociale,STO0008630,"Metodologia, organizzazione e valutazione dei servizi sociali (LM)","metodologia,organizzazioneevalutazionedeiservizisociali(lm)_40",LM
+Scuola di Studi Internazionali - SSI,STO0008633,International security studies (LM),internationalsecuritystudies(lm)_41,LM
+"Dipartimento di Biologia Cellulare, Computazionale e Integrata - CIBIO",STO0008662,Biologia quantitativa e computazionale (LM),biologiaquantitativaecomputazionale(lm)_42,LM
+Dipartimento di Sociologia e Ricerca Sociale,STO0008630,Servizio sociale (LT),serviziosociale(lt)_43,LT
+Dipartimento di Ingegneria e Scienza dell'Informazione,STO0008629,"Ingegneria informatica, delle comunicazioni ed elettronica (LT)","ingegneriainformatica,dellecomunicazioniedelettronica(lt)_44",LT
+Facoltà di Giurisprudenza,STO0008624,"Comparative, european and international legal studies (LT)","comparative,europeanandinternationallegalstudies(lt)_45",LT
+Centro Agricoltura Alimenti Ambiente - C3A,STO0012250,Viticoltura ed enologia (LT),viticolturaedenologia(lt)_46,LT
+Dipartimento di Ingegneria e Scienza dell'Informazione,STO0008629,Ingegneria dell'informazione e organizzazione d'impresa (LT),ingegneriadell'informazioneeorganizzazioned'impresa(lt)_47,LT
+"Dipartimento di Biologia Cellulare, Computazionale e Integrata - CIBIO",STO0008662,Biotecnologie cellulari e molecolari (LM),biotecnologiecellulariemolecolari(lm)_48,LM
+Dipartimento di Sociologia e Ricerca Sociale,STO0008630,Global and local studies (LM),globalandlocalstudies(lm)_49,LM
+Dipartimento di Ingegneria Civile Ambientale e Meccanica,STO0008626,"Ingegneria civile, ambientale e meccanica (D1)","ingegneriacivile,ambientaleemeccanica(d1)_50",D1
+Scuola di Studi Internazionali - SSI,STO0008633,European and international studies - studi europei e internazionali (LM),europeanandinternationalstudies-studieuropeieinternazionali(lm)_51,LM
+Dipartimento di Ingegneria Industriale,STO0008625,Materials and production engineering - ingegneria dei materiali e della produzione (LM),materialsandproductionengineering-ingegneriadeimaterialiedellaproduzione(lm)_52,LM
+Dipartimento di Lettere e Filosofia,STO0008632,Arte (LM),arte(lm)_53,LM
+Dipartimento di Lettere e Filosofia,STO0008632,"Mediazione linguistica, turismo e culture (LM)","mediazionelinguistica,turismoeculture(lm)_54",LM
+"Dipartimento di Biologia Cellulare, Computazionale e Integrata - CIBIO",STO0008662,Medicina e chirurgia (LM6),medicinaechirurgia(lm6)_55,LM6
+Dipartimento di Economia e Management,STO0008621,Behavioural and applied economics - economia comportamentale e applicata (LM),behaviouralandappliedeconomics-economiacomportamentaleeapplicata(lm)_56,LM
+Dipartimento di Sociologia e Ricerca Sociale,STO0008630,Studi internazionali (LT),studiinternazionali(lt)_57,LT
+Dipartimento di Lettere e Filosofia,STO0008632,Scienze storiche (LM),scienzestoriche(lm)_58,LM
+Dipartimento di Economia e Management,STO0008621,Innovation management - management dell'innovazione (LM),innovationmanagement-managementdell'innovazione(lm)_59,LM
+Dipartimento di Economia e Management,STO0008621,Management della sostenibilità e del turismo (LM),managementdellasostenibilitàedelturismo(lm)_60,LM
+Dipartimento di Ingegneria Civile Ambientale e Meccanica,STO0008626,Ingegneria energetica (LM),ingegneriaenergetica(lm)_61,LM
+Dipartimento di Ingegneria Civile Ambientale e Meccanica,STO0008626,Environmental meteorology (LM),environmentalmeteorology(lm)_62,LM
+Centro Interdipartimentale Mente/Cervello - CIMEC,STO0008663,Cognitive science - scienze cognitive (LM),cognitivescience-scienzecognitive(lm)_63,LM
+Dipartimento di Economia e Management,STO0008621,School of innovation (CS),schoolofinnovation(cs)_64,CS
+Dipartimento di Lettere e Filosofia,STO0008632,Filosofia e linguaggi della modernità (LM),filosofiaelinguaggidellamodernità(lm)_65,LM
+Centro Agricoltura Alimenti Ambiente - C3A,STO0012250,Agrifood innovation management (LM),agrifoodinnovationmanagement(lm)_66,LM
+CLA,STO0011639,Centro linguistico d'ateneo (CLA),centrolinguisticod'ateneo(cla)_67,CLA
+Dipartimento di Sociologia e Ricerca Sociale,STO0008630,Previsione sociale (M2),previsionesociale(m2)_68,M2
+Scuola di Studi Internazionali - SSI,STO0008633,"Security, intelligence and strategic studies (LM)","security,intelligenceandstrategicstudies(lm)_69",LM
+Dipartimento di Sociologia e Ricerca Sociale,STO0008630,Communication of science and innovation - scicomm (M1),communicationofscienceandinnovation-scicomm(m1)_70,M1
+Dipartimento di Economia e Management,STO0008621,Gestione di imprese sociali (g.i.s.) (M1),gestionediimpresesociali(g.i.s.)(m1)_71,M1
+Dipartimento di Ingegneria Civile Ambientale e Meccanica,STO0008626,Scienze agroalimentari e ambientali (D2),scienzeagroalimentarieambientali(d2)_72,D2
+Dipartimento di Psicologia e Scienze Cognitive,STO0008631,Gestione delle diversità: inclusione ed equità (gedie) (M1),gestionedellediversitàinclusioneedequità(gedie)(m1)_73,M1
+Dipartimento di Economia e Management,STO0008621,Economics - economia (LM),economics-economia(lm)_74,LM
