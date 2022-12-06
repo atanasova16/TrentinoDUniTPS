@@ -1,0 +1,280 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/user/ontologies/2022/10/untitled-ontology-27#"
+     xml:base="http://www.semanticweb.org/user/ontologies/2022/10/untitled-ontology-27"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/user/ontologies/2022/10/teleontology_dutps">
+        <owl:imports rdf:resource="http://www.semanticweb.org/user/ontologies/2022/10/untitled-ontology-10"/>
+        <owl:imports rdf:resource="http://www.semanticweb.org/user/ontologies/2022/10/untitled-ontology-11"/>
+        <owl:imports rdf:resource="http://www.semanticweb.org/user/ontologies/2022/10/untitled-ontology-12"/>
+        <owl:imports rdf:resource="http://www.semanticweb.org/user/ontologies/2022/10/untitled-ontology-13"/>
+        <owl:imports rdf:resource="http://www.semanticweb.org/user/ontologies/2022/10/untitled-ontology-14"/>
+        <owl:imports rdf:resource="http://www.semanticweb.org/user/ontologies/2022/10/untitled-ontology-15"/>
+        <owl:imports rdf:resource="http://www.semanticweb.org/user/ontologies/2022/10/untitled-ontology-26"/>
+        <owl:imports rdf:resource="http://www.semanticweb.org/user/ontologies/2022/10/untitled-ontology-7"/>
+        <owl:imports rdf:resource="http://www.semanticweb.org/user/ontologies/2022/10/untitled-ontology-9"/>
+        <owl:imports rdf:resource="http://www.semanticweb.org/user/ontologies/2022/10/untitled-ontology-90"/>
+        <owl:imports rdf:resource="http://www.semanticweb.org/user/ontologies/2022/10/untitled-ontology-91"/>
+        <owl:imports rdf:resource="http://www.semanticweb.org/user/ontologies/2022/10/untitled-ontology-92"/>
+        <owl:imports rdf:resource="http://www.semanticweb.org/user/ontologies/2022/10/untitled-ontology-93"/>
+        <owl:imports rdf:resource="http://www.semanticweb.org/user/ontologies/2022/11/ontology_digunitps"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#affiliated_to -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#affiliated_to"/>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#cosupervised_by -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#cosupervised_by">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Thesis"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Cosupervisor"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#examined_by -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#examined_by">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Thesis"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Examiner"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#located_in -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#located_in"/>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#offered_by -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#offered_by">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Degree"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Department"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#operating_as -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#operating_as">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Student"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Author"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#part_of -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#part_of">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#ds:University"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#ds:Everything"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#represented_as -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#represented_as">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Publication"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#File"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#supervised_by -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#supervised_by">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Thesis"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Supervisor"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#takes -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#takes">
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Staff_person"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Position"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#written_by -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#written_by"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Author -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Author">
+        <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Cosupervisor -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Cosupervisor">
+        <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Degree -->
+
+    <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#Degree">
+        <rdfs:subClassOf rdf:resource="http://schema.org/EducationalOccupationalProgram"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Department -->
+
+    <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#Department">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#vivo:AcademicDepartment"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#located_in"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#ds:University"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Examiner -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Examiner">
+        <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#File -->
+
+    <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#File">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#vivo:DigitalDocument"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Position -->
+
+    <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#Position">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#vivo:EmployeeRole"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#affiliated_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Department"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Publication -->
+
+    <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#Publication">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#vivo:AcademicArticle"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#written_by"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Author"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Staff_person -->
+
+    <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#Staff_person">
+        <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#located_in"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#ds:University"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Student -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Student">
+        <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Supervisor -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Supervisor">
+        <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Thesis -->
+
+    <rdf:Description rdf:about="http://knowdive.disi.unitn.it/etype#Thesis">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#vivo:Document"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#affiliated_to"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Degree"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#written_by"/>
+                <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Student"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </rdf:Description>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#ds:Everything -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#ds:Everything"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
