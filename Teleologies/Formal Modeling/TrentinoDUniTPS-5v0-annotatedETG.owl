@@ -1,0 +1,396 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:etype="http://knowdive.disi.unitn.it/etype#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns="https://knowdive.disi.unitn.it/etype#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="https://knowdive.disi.unitn.it/etype#"/>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Position">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</rdfs:comment>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Department"/>
+        </owl:someValuesFrom>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_affiliation_to_GID-43546"/>
+        </owl:onProperty>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#EmployeeRole"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Degree_GID-35898">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#EducationalOccupationalProgram"/>
+    </rdfs:subClassOf>
+    <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</etype:isEtype>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#AcademicDepartment">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#vivo:Department_GID-43988"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Thesis_GID-34396">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Document"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Degree_GID-35898"/>
+        <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_affiliation_to_GID-43546"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_author_GID-58221"/>
+        </owl:onProperty>
+        <owl:someValuesFrom>
+          <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Student_GID-57408"/>
+        </owl:someValuesFrom>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</etype:isEtype>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Author_GID-58221">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Person"/>
+    </rdfs:subClassOf>
+    <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</etype:isEtype>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#File_GID-300003">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#DIgitalDocument"/>
+    </rdfs:subClassOf>
+    <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</etype:isEtype>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#DIgitalDocument">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Document"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#EducationalOccupationalProgram">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Program"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#vivo:Department_GID-43988">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Organization"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Program">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Organization"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Document">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#InformationContent"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#University"/>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Role">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#ds:Academics"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#EmployeeRole">
+    <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Role"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Article">
+    <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Document"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#AcademicArticle">
+    <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Article"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Student_GID-57408">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Person"/>
+    </rdfs:subClassOf>
+    <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</etype:isEtype>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Cosupervisor_GID-300002">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Person"/>
+    </rdfs:subClassOf>
+    <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</etype:isEtype>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Staff_person_GID-45612">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Person"/>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty>
+          <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_location_GID-779"/>
+        </owl:onProperty>
+        <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#University"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</etype:isEtype>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Person">
+    <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#ds:Academics"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Organization">
+    <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#ds:Academics"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Department">
+    <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</etype:isEtype>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_location_GID-779"/>
+        <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#University"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#AcademicDepartment"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#InformationContent">
+    <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#ds:Academics"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Publication_GID-300001">
+    <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#AcademicArticle"/>
+    <rdfs:subClassOf>
+      <owl:Restriction>
+        <owl:onProperty rdf:resource="http://knowdive.disi.unitn.it/etype#has_author_GID-58221"/>
+        <owl:someValuesFrom rdf:resource="http://knowdive.disi.unitn.it/etype#Author_GID-58221"/>
+      </owl:Restriction>
+    </rdfs:subClassOf>
+    <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</etype:isEtype>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Supervisor_GID-57473">
+    <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Person"/>
+    <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</etype:isEtype>
+  </owl:Class>
+  <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Examiner_GID-53882">
+    <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Person"/>
+    <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</etype:isEtype>
+  </owl:Class>
+  <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_supervisor_GID-57473_Type-34396">
+    <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Supervisor_GID-57473"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Thesis_GID-34396"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_operating_as_GID-112129_Type-57408">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Student_GID-57408"/>
+    <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Author_GID-58221"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_representation_GID-104395_Type-300001">
+    <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#File_GID-300003"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Publication_GID-300001"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_examiner_GID-53882_Type-34396">
+    <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Examiner_GID-53882"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Thesis_GID-34396"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Degree_GID-35898"/>
+    <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Department"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_cosupervisor_GID-57473_Type-34396">
+    <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Cosupervisor_GID-300002"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Thesis_GID-34396"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_position_GID-3017_Type-45612">
+    <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Position"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Staff_person_GID-45612"/>
+  </owl:ObjectProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_examiner_id_GID-39085_Type-53882">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Examiner_GID-53882"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_degree_id_GID-35898_Type-35898">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Degree_GID-35898"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_thesis_year_GID-80974_Type-34396">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Thesis_GID-34396"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_title_GID-34061_Type-34396">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Thesis_GID-34396"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_cosupervisor_name_GID-2_Type-300002">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Cosupervisor_GID-300002"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_position_id_GID-39085">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Position"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_format_GID-300006_Type-300003">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#File_GID-300003"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_department_id_GID-43988">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Department"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_file_link_GID-300007_Type-300003">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#File_GID-300003"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_citation_GID-36248_Type-300001">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Publication_GID-300001"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_pub_id_GID-39085_Type-300001">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Publication_GID-300001"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_pub_year_GID-80974_Type-300001">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Publication_GID-300001"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_open_access_GID-111484_Type-300003">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#File_GID-300003"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#boolean"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_student_id_GID-57408_Type-57408">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Student_GID-57408"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_student_surname_GID-34003_Type-57408">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Student_GID-57408"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_file_name_GID-2_Type-300003">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#File_GID-300003"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Examiner_GID-53882"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_supervisor_name_GID-2_Type-57473">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Supervisor_GID-57473"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_student_name_GID-2_Type-57408">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Student_GID-57408"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_position_role_GID-3735">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Position"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_pub_type_GID-31834_Type-300001">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Publication_GID-300001"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_surname_GID-34003_Type-45612">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Staff_person_GID-45612"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Department"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_supervisor_surname_GID-34003_Type-57473">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Supervisor_GID-57473"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_cosupervisor_id_GID-39085_Type-300002">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Cosupervisor_GID-300002"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Degree_GID-35898"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Examiner_GID-53882"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_cosupervisor_surname_GID-34003_Type-300002">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Cosupervisor_GID-300002"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_license_GID-300005_Type-300003">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#File_GID-300003"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Degree_GID-35898"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_phone_GID-34494_Type-45612">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Staff_person_GID-45612"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_author_name_GID-2_Type-58221">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Author_GID-58221"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_supervisor_id_GID-39085_Type-57473">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Supervisor_GID-57473"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Department"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_language_GID-33843_Type-300001">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Publication_GID-300001"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_author_surname_GID-34003_Type-58221">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Author_GID-58221"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_thesis_degree_GID-35789_Type-34396">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Thesis_GID-34396"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_version_GID-31829_Type-300003">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#File_GID-300003"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_pub_title_GID-34061_Type-300001">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Publication_GID-300001"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_author_id_GID-58221_Type-58221">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Author_GID-58221"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_person_id_GID-118_Type-45612">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Staff_person_GID-45612"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Department"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-45612">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Staff_person_GID-45612"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_thesis_id_GID-34396_Type-34396">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Thesis_GID-34396"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_position_situated_department_GID-46413">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Position"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988">
+    <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Department"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:DatatypeProperty>
+  <owl:AnnotationProperty rdf:about="http://knowdive.disi.unitn.it/etype#isEtype"/>
+</rdf:RDF>
