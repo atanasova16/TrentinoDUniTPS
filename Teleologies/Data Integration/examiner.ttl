@@ -1,0 +1,376 @@
+<http://localhost:8080/source/claudiotonetta_1> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "CLAUDIO" .
+<http://localhost:8080/source/claudiotonetta_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/claudiotonetta_1> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "TONETTA" .
+
+<http://localhost:8080/source/39441ca548c236fe28712555c65cab96> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Alessio" .
+<http://localhost:8080/source/39441ca548c236fe28712555c65cab96> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Claroni" .
+<http://localhost:8080/source/39441ca548c236fe28712555c65cab96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/aa57e25f9eb615c8b2b061165f5222ae> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Pegoretti" .
+<http://localhost:8080/source/aa57e25f9eb615c8b2b061165f5222ae> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Alessandro" .
+<http://localhost:8080/source/aa57e25f9eb615c8b2b061165f5222ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/2b2535e69ba34e8784d9b95c308f45b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/2b2535e69ba34e8784d9b95c308f45b9> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Matteo" .
+<http://localhost:8080/source/2b2535e69ba34e8784d9b95c308f45b9> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Cosulich" .
+
+<http://localhost:8080/source/79fbf2076fbbe8370a400e6773257b34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/79fbf2076fbbe8370a400e6773257b34> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Baccaglini" .
+<http://localhost:8080/source/79fbf2076fbbe8370a400e6773257b34> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Laura" .
+
+<http://localhost:8080/source/7255b9cf6e06ee03d1843bff89f05fb1> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Caso" .
+<http://localhost:8080/source/7255b9cf6e06ee03d1843bff89f05fb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/7255b9cf6e06ee03d1843bff89f05fb1> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Roberto" .
+
+<http://localhost:8080/source/8cd43298d27ee90250cde7fd12dd68c4> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Simeoni" .
+<http://localhost:8080/source/8cd43298d27ee90250cde7fd12dd68c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/8cd43298d27ee90250cde7fd12dd68c4> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Lucia" .
+
+<http://localhost:8080/source/samiruuskanen_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/samiruuskanen_2> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "SAMI" .
+<http://localhost:8080/source/samiruuskanen_2> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "RUUSKANEN" .
+
+<http://localhost:8080/source/aebc2c4941fcfebffa56b015253eab15> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Tortia" .
+<http://localhost:8080/source/aebc2c4941fcfebffa56b015253eab15> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Ermanno Celeste" .
+<http://localhost:8080/source/aebc2c4941fcfebffa56b015253eab15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/c7a779189e48eb6a3477cb05159ad4da> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Straffelini" .
+<http://localhost:8080/source/c7a779189e48eb6a3477cb05159ad4da> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Giovanni" .
+<http://localhost:8080/source/c7a779189e48eb6a3477cb05159ad4da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/fe85833ce01e42595b3dbd625c22487c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/fe85833ce01e42595b3dbd625c22487c> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Donata" .
+<http://localhost:8080/source/fe85833ce01e42595b3dbd625c22487c> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Borgonovo Re" .
+
+<http://localhost:8080/source/emmanuellequerido_3> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "QUERIDO" .
+<http://localhost:8080/source/emmanuellequerido_3> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "EMMANUELLE" .
+<http://localhost:8080/source/emmanuellequerido_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/lukapocivavsek_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/lukapocivavsek_4> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "LUKA" .
+<http://localhost:8080/source/lukapocivavsek_4> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "POCIVAVSEK" .
+
+<http://localhost:8080/source/nhungnguyen_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/nhungnguyen_5> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "NHUNG" .
+<http://localhost:8080/source/nhungnguyen_5> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "NGUYEN" .
+
+<http://localhost:8080/source/a355cffa6ad73588170ca3a0930a5f98> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Stefania" .
+<http://localhost:8080/source/a355cffa6ad73588170ca3a0930a5f98> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Brun" .
+<http://localhost:8080/source/a355cffa6ad73588170ca3a0930a5f98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/169ea98198a0db3cb7fd9bdef7a0e71d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/169ea98198a0db3cb7fd9bdef7a0e71d> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Anna" .
+<http://localhost:8080/source/169ea98198a0db3cb7fd9bdef7a0e71d> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Simonati" .
+
+<http://localhost:8080/source/83d634c885e145b09ac8b34908b37397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/83d634c885e145b09ac8b34908b37397> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Gabriele" .
+<http://localhost:8080/source/83d634c885e145b09ac8b34908b37397> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Fornasari" .
+
+<http://localhost:8080/source/b3b6d602cd18c0bed62027032dd1f4fd> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Penasa" .
+<http://localhost:8080/source/b3b6d602cd18c0bed62027032dd1f4fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/b3b6d602cd18c0bed62027032dd1f4fd> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Simone" .
+
+<http://localhost:8080/source/343a5e0297f685c383521d33f0407c0d> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Woelk" .
+<http://localhost:8080/source/343a5e0297f685c383521d33f0407c0d> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Jens" .
+<http://localhost:8080/source/343a5e0297f685c383521d33f0407c0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/79fbf2076fbbe8370a400e6773257b34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/79fbf2076fbbe8370a400e6773257b34> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Baccaglini" .
+<http://localhost:8080/source/79fbf2076fbbe8370a400e6773257b34> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Laura" .
+
+<http://localhost:8080/source/ab24b4b55b1807123b958e55c8de3be1> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Cinzia" .
+<http://localhost:8080/source/ab24b4b55b1807123b958e55c8de3be1> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Piciocchi" .
+<http://localhost:8080/source/ab24b4b55b1807123b958e55c8de3be1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/42ab203bc6bbbc98041a93af9d5b9007> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Serena" .
+<http://localhost:8080/source/42ab203bc6bbbc98041a93af9d5b9007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/42ab203bc6bbbc98041a93af9d5b9007> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Manara" .
+
+<http://localhost:8080/source/ericaferronato_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/ericaferronato_6> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "FERRONATO" .
+<http://localhost:8080/source/ericaferronato_6> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "ERICA" .
+
+<http://localhost:8080/source/ivanfumagalli_7> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "IVAN" .
+<http://localhost:8080/source/ivanfumagalli_7> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "FUMAGALLI" .
+<http://localhost:8080/source/ivanfumagalli_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/davidezambrano_8> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "ZAMBRANO" .
+<http://localhost:8080/source/davidezambrano_8> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "DAVIDE" .
+<http://localhost:8080/source/davidezambrano_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/c128c7355815327a68a17409dbab7856> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Costa" .
+<http://localhost:8080/source/c128c7355815327a68a17409dbab7856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/c128c7355815327a68a17409dbab7856> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Ericka" .
+
+<http://localhost:8080/source/0b10f60a65658db5c41a147e595c725e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/0b10f60a65658db5c41a147e595c725e> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Gabriella" .
+<http://localhost:8080/source/0b10f60a65658db5c41a147e595c725e> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Berloffa" .
+
+<http://localhost:8080/source/matteoragni_9> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Ragni" .
+<http://localhost:8080/source/matteoragni_9> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Matteo" .
+<http://localhost:8080/source/matteoragni_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/ca56af68877e89f41d0ad6c25376301a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/ca56af68877e89f41d0ad6c25376301a> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Erik" .
+<http://localhost:8080/source/ca56af68877e89f41d0ad6c25376301a> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Dassi" .
+
+<http://localhost:8080/source/ebb8c7f13d87a9fdd57e850563728106> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Bianchi" .
+<http://localhost:8080/source/ebb8c7f13d87a9fdd57e850563728106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/ebb8c7f13d87a9fdd57e850563728106> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Luigi Amedeo" .
+
+<http://localhost:8080/source/560f85206a1f3aeca659284609f23468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/560f85206a1f3aeca659284609f23468> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Bonoldi" .
+<http://localhost:8080/source/560f85206a1f3aeca659284609f23468> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Andrea" .
+
+<http://localhost:8080/source/9fe0499c2fba78c7fd749d45ecaabad5> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Vatiero" .
+<http://localhost:8080/source/9fe0499c2fba78c7fd749d45ecaabad5> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Massimiliano" .
+<http://localhost:8080/source/9fe0499c2fba78c7fd749d45ecaabad5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/cc1bfef2c074775d20338d1ba1c95d4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/cc1bfef2c074775d20338d1ba1c95d4c> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Mione" .
+<http://localhost:8080/source/cc1bfef2c074775d20338d1ba1c95d4c> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Maria Caterina" .
+
+<http://localhost:8080/source/luukvanlaake_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/luukvanlaake_10> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "LUUK" .
+<http://localhost:8080/source/luukvanlaake_10> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "VAN LAAKE" .
+
+<http://localhost:8080/source/257d367dc352f87b789bff36c588cf1d> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Matteo" .
+<http://localhost:8080/source/257d367dc352f87b789bff36c588cf1d> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Benedetti" .
+<http://localhost:8080/source/257d367dc352f87b789bff36c588cf1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/andreazambotti_11> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Zambotti" .
+<http://localhost:8080/source/andreazambotti_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/andreazambotti_11> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Andrea" .
+
+<http://localhost:8080/source/giacomobeccucci_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/giacomobeccucci_12> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "BECCUCCI" .
+<http://localhost:8080/source/giacomobeccucci_12> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "GIACOMO" .
+
+<http://localhost:8080/source/db564bd121eb5e48cb3fd29e9fa79aee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/db564bd121eb5e48cb3fd29e9fa79aee> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Giuliani" .
+<http://localhost:8080/source/db564bd121eb5e48cb3fd29e9fa79aee> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Diego" .
+
+<http://localhost:8080/source/b38bac6a7531a672637bf61f83f7fbeb> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Notaro" .
+<http://localhost:8080/source/b38bac6a7531a672637bf61f83f7fbeb> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Sandra" .
+<http://localhost:8080/source/b38bac6a7531a672637bf61f83f7fbeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/giuseppeabbiati_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/giuseppeabbiati_13> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Giuseppe" .
+<http://localhost:8080/source/giuseppeabbiati_13> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Abbiati" .
+
+<http://localhost:8080/source/oldroydgilesed_14> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "OLDROYD" .
+<http://localhost:8080/source/oldroydgilesed_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/oldroydgilesed_14> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "GILES ED" .
+
+<http://localhost:8080/source/e3c790d34748e6ae02102a8eee2e5bcf> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Maria Luigia" .
+<http://localhost:8080/source/e3c790d34748e6ae02102a8eee2e5bcf> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Segnana" .
+<http://localhost:8080/source/e3c790d34748e6ae02102a8eee2e5bcf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/venetosmani_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/venetosmani_15> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "OSMANI" .
+<http://localhost:8080/source/venetosmani_15> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "VENET" .
+
+<http://localhost:8080/source/af1e685383e0330fe36011a61d2e08df> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Ugo" .
+<http://localhost:8080/source/af1e685383e0330fe36011a61d2e08df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/af1e685383e0330fe36011a61d2e08df> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Malvagna" .
+
+<http://localhost:8080/source/vittoriochiessi_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/vittoriochiessi_16> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "VITTORIO" .
+<http://localhost:8080/source/vittoriochiessi_16> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "CHIESSI" .
+
+<http://localhost:8080/source/albertogriggio_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/albertogriggio_17> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Alberto" .
+<http://localhost:8080/source/albertogriggio_17> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Griggio" .
+
+<http://localhost:8080/source/2998a5046845042094935767c54cf0ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/2998a5046845042094935767c54cf0ec> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Giuseppe" .
+<http://localhost:8080/source/2998a5046845042094935767c54cf0ec> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Formetta" .
+
+<http://localhost:8080/source/f4bf3f1d8a02d2185a80a803db217e39> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Davide" .
+<http://localhost:8080/source/f4bf3f1d8a02d2185a80a803db217e39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/f4bf3f1d8a02d2185a80a803db217e39> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Cassol" .
+
+<http://localhost:8080/source/546d9a7243ba060381c8cb4ad011d74c> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Urbani" .
+<http://localhost:8080/source/546d9a7243ba060381c8cb4ad011d74c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/546d9a7243ba060381c8cb4ad011d74c> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Michele" .
+
+<http://localhost:8080/source/73867fd3b8b5f585953b902aa5467387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/73867fd3b8b5f585953b902aa5467387> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Gian Domenico" .
+<http://localhost:8080/source/73867fd3b8b5f585953b902aa5467387> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Sorarù" .
+
+<http://localhost:8080/source/8a9134b8aa91d562b51291238923188d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/8a9134b8aa91d562b51291238923188d> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Dalla Bontà" .
+<http://localhost:8080/source/8a9134b8aa91d562b51291238923188d> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Silvana" .
+
+<http://localhost:8080/source/artoniemi_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/artoniemi_18> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "ARTO" .
+<http://localhost:8080/source/artoniemi_18> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "NIEMI" .
+
+<http://localhost:8080/source/dfce3c2b2434299aeb4da8212261c206> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Perin" .
+<http://localhost:8080/source/dfce3c2b2434299aeb4da8212261c206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/dfce3c2b2434299aeb4da8212261c206> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Davide" .
+
+<http://localhost:8080/source/3887db670d203ed38152d40495e68f06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/3887db670d203ed38152d40495e68f06> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Enrico" .
+<http://localhost:8080/source/3887db670d203ed38152d40495e68f06> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Domenici" .
+
+<http://localhost:8080/source/8caed4899dbe9b3292a0738a71d65567> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Edoardo" .
+<http://localhost:8080/source/8caed4899dbe9b3292a0738a71d65567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/8caed4899dbe9b3292a0738a71d65567> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Gaffeo" .
+
+<http://localhost:8080/source/hannahulshof_19> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "HULSHOF" .
+<http://localhost:8080/source/hannahulshof_19> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "HANNA" .
+<http://localhost:8080/source/hannahulshof_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/0326033107bc8c931ae7375124d591cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/0326033107bc8c931ae7375124d591cb> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Coller" .
+<http://localhost:8080/source/0326033107bc8c931ae7375124d591cb> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Graziano" .
+
+<http://localhost:8080/source/76bef3eb17bb236cfe6efd577eec7c48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/76bef3eb17bb236cfe6efd577eec7c48> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Bombardelli" .
+<http://localhost:8080/source/76bef3eb17bb236cfe6efd577eec7c48> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Marco" .
+
+<http://localhost:8080/source/cf61ddaad6dfff5c8f39fac978cba2cd> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Antonia" .
+<http://localhost:8080/source/cf61ddaad6dfff5c8f39fac978cba2cd> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Menghini" .
+<http://localhost:8080/source/cf61ddaad6dfff5c8f39fac978cba2cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/83d634c885e145b09ac8b34908b37397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/83d634c885e145b09ac8b34908b37397> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Gabriele" .
+<http://localhost:8080/source/83d634c885e145b09ac8b34908b37397> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Fornasari" .
+
+<http://localhost:8080/source/cf61ddaad6dfff5c8f39fac978cba2cd> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Antonia" .
+<http://localhost:8080/source/cf61ddaad6dfff5c8f39fac978cba2cd> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Menghini" .
+<http://localhost:8080/source/cf61ddaad6dfff5c8f39fac978cba2cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/55f67e1327b116c21099bd31c474f871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/55f67e1327b116c21099bd31c474f871> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Sartori" .
+<http://localhost:8080/source/55f67e1327b116c21099bd31c474f871> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Filippo" .
+
+<http://localhost:8080/source/cf61ddaad6dfff5c8f39fac978cba2cd> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Antonia" .
+<http://localhost:8080/source/cf61ddaad6dfff5c8f39fac978cba2cd> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Menghini" .
+<http://localhost:8080/source/cf61ddaad6dfff5c8f39fac978cba2cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/2b1d0476390872d4def11f4a1dfbeee5> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Melchionda" .
+<http://localhost:8080/source/2b1d0476390872d4def11f4a1dfbeee5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/2b1d0476390872d4def11f4a1dfbeee5> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Alessandro" .
+
+<http://localhost:8080/source/2b2535e69ba34e8784d9b95c308f45b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/2b2535e69ba34e8784d9b95c308f45b9> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Matteo" .
+<http://localhost:8080/source/2b2535e69ba34e8784d9b95c308f45b9> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Cosulich" .
+
+<http://localhost:8080/source/98d24f9680397fc8bfbb31b8f6f31014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/98d24f9680397fc8bfbb31b8f6f31014> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Abdolmohammadi" .
+<http://localhost:8080/source/98d24f9680397fc8bfbb31b8f6f31014> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Pejman" .
+
+<http://localhost:8080/source/343a5e0297f685c383521d33f0407c0d> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Woelk" .
+<http://localhost:8080/source/343a5e0297f685c383521d33f0407c0d> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Jens" .
+<http://localhost:8080/source/343a5e0297f685c383521d33f0407c0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/392b2a9c0a4a4e71559e624a547d91a5> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Paolo" .
+<http://localhost:8080/source/392b2a9c0a4a4e71559e624a547d91a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/392b2a9c0a4a4e71559e624a547d91a5> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Sommaggio" .
+
+<http://localhost:8080/source/f23acbd28a75903deff6c1a4f3fb17b4> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Marco" .
+<http://localhost:8080/source/f23acbd28a75903deff6c1a4f3fb17b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/f23acbd28a75903deff6c1a4f3fb17b4> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Pertile" .
+
+<http://localhost:8080/source/343a5e0297f685c383521d33f0407c0d> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Woelk" .
+<http://localhost:8080/source/343a5e0297f685c383521d33f0407c0d> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Jens" .
+<http://localhost:8080/source/343a5e0297f685c383521d33f0407c0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/392b2a9c0a4a4e71559e624a547d91a5> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Paolo" .
+<http://localhost:8080/source/392b2a9c0a4a4e71559e624a547d91a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/392b2a9c0a4a4e71559e624a547d91a5> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Sommaggio" .
+
+<http://localhost:8080/source/26469a0de6af7c7688e0e328933e60ce> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Guarda" .
+<http://localhost:8080/source/26469a0de6af7c7688e0e328933e60ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/26469a0de6af7c7688e0e328933e60ce> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Paolo" .
+
+<http://localhost:8080/source/c95a9b85f431f6d4aff36b8d12e528e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/c95a9b85f431f6d4aff36b8d12e528e0> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Giuseppe" .
+<http://localhost:8080/source/c95a9b85f431f6d4aff36b8d12e528e0> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Nesi" .
+
+<http://localhost:8080/source/giannipavan_20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/giannipavan_20> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "GIANNI" .
+<http://localhost:8080/source/giannipavan_20> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "PAVAN" .
+
+<http://localhost:8080/source/7bf6be1db4704348480a06cc2260f7ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/7bf6be1db4704348480a06cc2260f7ac> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Marta" .
+<http://localhost:8080/source/7bf6be1db4704348480a06cc2260f7ac> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Biagioli" .
+
+<http://localhost:8080/source/9655029f59e1ab08a3ca6fa2796c0c62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/9655029f59e1ab08a3ca6fa2796c0c62> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Diana" .
+<http://localhost:8080/source/9655029f59e1ab08a3ca6fa2796c0c62> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Muraro" .
+
+<http://localhost:8080/source/ccb30130c898ffcea20161a8e4950902> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Ferro" .
+<http://localhost:8080/source/ccb30130c898ffcea20161a8e4950902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/ccb30130c898ffcea20161a8e4950902> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Edgar" .
+
+<http://localhost:8080/source/1a3ba66f3fa10647c508fc20729cf7a9> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Roberto" .
+<http://localhost:8080/source/1a3ba66f3fa10647c508fc20729cf7a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/1a3ba66f3fa10647c508fc20729cf7a9> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Gabriele" .
+
+<http://localhost:8080/source/b0d4041256343095ba7e71c700ca6905> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Lucia" .
+<http://localhost:8080/source/b0d4041256343095ba7e71c700ca6905> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Bianchin" .
+<http://localhost:8080/source/b0d4041256343095ba7e71c700ca6905> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/cristinacosta_21> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "COSTA" .
+<http://localhost:8080/source/cristinacosta_21> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "CRISTINA" .
+<http://localhost:8080/source/cristinacosta_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/ff0e83659c90a2d67e0d5ef7f6205fc1> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Ponte" .
+<http://localhost:8080/source/ff0e83659c90a2d67e0d5ef7f6205fc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/ff0e83659c90a2d67e0d5ef7f6205fc1> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Diego" .
+
+<http://localhost:8080/source/3e21e21ecbff06e09c44ad54e1aabdfe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/3e21e21ecbff06e09c44ad54e1aabdfe> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Massimo" .
+<http://localhost:8080/source/3e21e21ecbff06e09c44ad54e1aabdfe> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Pellizzari" .
+
+<http://localhost:8080/source/aa57e25f9eb615c8b2b061165f5222ae> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Pegoretti" .
+<http://localhost:8080/source/aa57e25f9eb615c8b2b061165f5222ae> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Alessandro" .
+<http://localhost:8080/source/aa57e25f9eb615c8b2b061165f5222ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/813650db3261574d43023e39825aa922> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Alessandro" .
+<http://localhost:8080/source/813650db3261574d43023e39825aa922> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Provenzani" .
+<http://localhost:8080/source/813650db3261574d43023e39825aa922> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/ab140a6caf73c916ed028e66078a5b35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/ab140a6caf73c916ed028e66078a5b35> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Rigotti" .
+<http://localhost:8080/source/ab140a6caf73c916ed028e66078a5b35> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Daniele" .
+
+<http://localhost:8080/source/leonardovulcan_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/leonardovulcan_22> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Leonardo" .
+<http://localhost:8080/source/leonardovulcan_22> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Vulcan" .
+
+<http://localhost:8080/source/juhanaahtiainen_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/juhanaahtiainen_23> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "AHTIAINEN" .
+<http://localhost:8080/source/juhanaahtiainen_23> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "JUHANA" .
+
+<http://localhost:8080/source/claudiacalabrese_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/claudiacalabrese_24> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "CLAUDIA" .
+<http://localhost:8080/source/claudiacalabrese_24> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "CALABRESE" .
+
+<http://localhost:8080/source/019fd943fa32615697b495731656e52a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/019fd943fa32615697b495731656e52a> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Claudio" .
+<http://localhost:8080/source/019fd943fa32615697b495731656e52a> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Agostinelli" .
+
+<http://localhost:8080/source/e3e8bc9964494a93e8ea92f2e46b16e2> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Giovannini" .
+<http://localhost:8080/source/e3e8bc9964494a93e8ea92f2e46b16e2> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Lorenzo" .
+<http://localhost:8080/source/e3e8bc9964494a93e8ea92f2e46b16e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/e6c8d7fb4098755703c8c75c94428213> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Dino" .
+<http://localhost:8080/source/e6c8d7fb4098755703c8c75c94428213> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Zardi" .
+<http://localhost:8080/source/e6c8d7fb4098755703c8c75c94428213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/filippoorlando_25> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "FILIPPO" .
+<http://localhost:8080/source/filippoorlando_25> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "ORLANDO" .
+<http://localhost:8080/source/filippoorlando_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/valentinamiotto_26> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "MIOTTO" .
+<http://localhost:8080/source/valentinamiotto_26> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "VALENTINA" .
+<http://localhost:8080/source/valentinamiotto_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+
+<http://localhost:8080/source/77bb434dbc648ff2a25022500539f235> <http://knowdive.disi.unitn.it/etype#has_examiner_surname_GID-34003_Type-53882> "Giovanardi" .
+<http://localhost:8080/source/77bb434dbc648ff2a25022500539f235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Examiner_GID-53882> .
+<http://localhost:8080/source/77bb434dbc648ff2a25022500539f235> <http://knowdive.disi.unitn.it/etype#has_examiner_name_GID-2_Type-53882> "Andrea" .
+

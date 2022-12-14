@@ -1,0 +1,96 @@
+<http://localhost:8080/source/STO0008662> <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> "Dipartimento di Biologia Cellulare, Computazionale e Integrata - CIBIO" .
+<http://localhost:8080/source/STO0008662> <http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803> "Via Sommarive, 9, Povo, 38123 TN" .
+<http://localhost:8080/source/STO0008662> <http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126> "http://www.cibio.unitn.it" .
+<http://localhost:8080/source/STO0008662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/STO0008662> <http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004> "Paolo Macchi" .
+
+<http://localhost:8080/source/STO0008621> <http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004> "Flavio Bazzana" .
+<http://localhost:8080/source/STO0008621> <http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126> "http://www.economia.unitn.it" .
+<http://localhost:8080/source/STO0008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/STO0008621> <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> "Dipartimento di Economia e Management" .
+<http://localhost:8080/source/STO0008621> <http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803> "Via Vigilio Inama, 5, Trento, 38122 TN" .
+
+<http://localhost:8080/source/STO0008627> <http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803> "Via Sommarive, 14, Povo, 38123 TN" .
+<http://localhost:8080/source/STO0008627> <http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126> "http://www.physics.unitn.it" .
+<http://localhost:8080/source/STO0008627> <http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004> "Franco Dalfovo" .
+<http://localhost:8080/source/STO0008627> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/STO0008627> <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> "Dipartimento di Fisica" .
+
+<http://localhost:8080/source/STO0008626> <http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004> "Oreste S. Bursi" .
+<http://localhost:8080/source/STO0008626> <http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126> "http://www.dicam.unitn.it/" .
+<http://localhost:8080/source/STO0008626> <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> "Dipartimento di Ingegneria Civile Ambientale e Meccanica" .
+<http://localhost:8080/source/STO0008626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/STO0008626> <http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803> "Via Mesiano, 77, 38123 Trento" .
+
+<http://localhost:8080/source/STO0008629> <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> "Dipartimento di Ingegneria e Scienza dell'Informazione" .
+<http://localhost:8080/source/STO0008629> <http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126> "https://www.disi.unitn.it" .
+<http://localhost:8080/source/STO0008629> <http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803> "Via Sommarive, 9, Povo, 38123 TN" .
+<http://localhost:8080/source/STO0008629> <http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004> "Paolo Giorgini" .
+<http://localhost:8080/source/STO0008629> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+
+<http://localhost:8080/source/STO0008625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/STO0008625> <http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803> "Via Sommarive, 9, Povo, 38123 TN" .
+<http://localhost:8080/source/STO0008625> <http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004> "Alessandro Pegoretti" .
+<http://localhost:8080/source/STO0008625> <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> "Dipartimento di Ingegneria Industriale" .
+<http://localhost:8080/source/STO0008625> <http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126> "http://www.dii.unitn.it" .
+
+<http://localhost:8080/source/STO0008632> <http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126> "http://www.lettere.unitn.it/" .
+<http://localhost:8080/source/STO0008632> <http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803> "Via Tomaso Gar, 14, Trento, TN" .
+<http://localhost:8080/source/STO0008632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/STO0008632> <http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004> "Marco Gozzi" .
+<http://localhost:8080/source/STO0008632> <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> "Dipartimento di Lettere e Filosofia" .
+
+<http://localhost:8080/source/STO0008628> <http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004> "Ana Maria Alonso Rodriguez" .
+<http://localhost:8080/source/STO0008628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/STO0008628> <http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126> "http://www.maths.unitn.it/" .
+<http://localhost:8080/source/STO0008628> <http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803> "Via Sommarive, 14, 38123 Povo TN" .
+<http://localhost:8080/source/STO0008628> <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> "Dipartimento di Matematica" .
+
+<http://localhost:8080/source/STO0008631> <http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004> "Jeroen Andre Filip Vaes" .
+<http://localhost:8080/source/STO0008631> <http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803> "Corso Bettini, 84, Rovereto, 38068 TN" .
+<http://localhost:8080/source/STO0008631> <http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126> "http://www.cogsci.unitn.it/" .
+<http://localhost:8080/source/STO0008631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/STO0008631> <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> "Dipartimento di Psicologia e Scienze Cognitive" .
+
+<http://localhost:8080/source/STO0008630> <http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803> "Via Giuseppe Verdi, 26, 38122 Trento" .
+<http://localhost:8080/source/STO0008630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/STO0008630> <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> "Dipartimento di Sociologia e Ricerca Sociale" .
+<http://localhost:8080/source/STO0008630> <http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004> "Giuseppe Sciortino" .
+<http://localhost:8080/source/STO0008630> <http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126> "http://www.sociologia.unitn.it" .
+
+<http://localhost:8080/source/STO0008624> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/STO0008624> <http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803> "Via Giuseppe Verdi, 53, 38122 Trento" .
+<http://localhost:8080/source/STO0008624> <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> "Facoltà di Giurisprudenza" .
+<http://localhost:8080/source/STO0008624> <http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004> "Gian Antonio Benacchio" .
+<http://localhost:8080/source/STO0008624> <http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126> "http://www.giurisprudenza.unitn.it" .
+
+<http://localhost:8080/source/STO0012250> <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> "Centro Agricoltura Alimenti Ambiente - C3A" .
+<http://localhost:8080/source/STO0012250> <http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126> "http://www.centro3a.unitn.it" .
+<http://localhost:8080/source/STO0012250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/STO0012250> <http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004> "Alberto Bellin" .
+<http://localhost:8080/source/STO0012250> <http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803> "Via Edmund Mach, 1, 38010 San Michele All'adige TN" .
+
+<http://localhost:8080/source/STO0013533> <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> "Centro Interdipartimentale di Scienze Mediche - CISMED" .
+<http://localhost:8080/source/STO0013533> <http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126> "https://www.cismed.unitn.it/" .
+<http://localhost:8080/source/STO0013533> <http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004> "Olivier Jousson" .
+<http://localhost:8080/source/STO0013533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/STO0013533> <http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803> "via S. Maria Maddalena, 1, 38122 Trento" .
+
+<http://localhost:8080/source/STO0008663> <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> "Centro Interdipartimentale Mente/Cervello - CIMEC" .
+<http://localhost:8080/source/STO0008663> <http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004> "Yuri Bozzi" .
+<http://localhost:8080/source/STO0008663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/STO0008663> <http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126> "http://www.cimec.unitn.it" .
+<http://localhost:8080/source/STO0008663> <http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803> "Corso Bettini, 31, Rovereto, 38068 TN" .
+
+<http://localhost:8080/source/STO0008633> <http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004> "Stefano Schiavo" .
+<http://localhost:8080/source/STO0008633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/STO0008633> <http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126> "http://www.sis.unitn.it" .
+<http://localhost:8080/source/STO0008633> <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> "Scuola di Studi Internazionali - SSI" .
+<http://localhost:8080/source/STO0008633> <http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803> "Via Tomaso Gar, 14, Trento, 38122 TN" .
+
+<http://localhost:8080/source/STO0011639> <http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803> "Via Verdi, 8, 38122 Trento" .
+<http://localhost:8080/source/STO0011639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/STO0011639> <http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004> "Fabiana Rosi" .
+<http://localhost:8080/source/STO0011639> <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> "CLA" .
+<http://localhost:8080/source/STO0011639> <http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126> "https://www.cla.unitn.it/" .
+

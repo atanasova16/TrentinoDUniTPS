@@ -1,0 +1,444 @@
+<http://localhost:8080/source/ingegneriacivile> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+<http://localhost:8080/source/ingegneriacivile> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Ingegneria civile (LT)" .
+<http://localhost:8080/source/ingegneriacivile> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008626> .
+<http://localhost:8080/source/STO0008626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/ingegneriacivile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+
+<http://localhost:8080/source/gestioneaziendale> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008621> .
+<http://localhost:8080/source/gestioneaziendale> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Gestione aziendale (LT)" .
+<http://localhost:8080/source/gestioneaziendale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/STO0008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/gestioneaziendale> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+
+<http://localhost:8080/source/STO0008632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/beniculturali> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Beni culturali (LT)" .
+<http://localhost:8080/source/beniculturali> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008632> .
+<http://localhost:8080/source/beniculturali> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/beniculturali> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+
+<http://localhost:8080/source/filosofia> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008632> .
+<http://localhost:8080/source/STO0008632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/filosofia> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Filosofia (LT)" .
+<http://localhost:8080/source/filosofia> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+<http://localhost:8080/source/filosofia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+
+<http://localhost:8080/source/STO0008632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/studistoriciefilologico-letterari> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008632> .
+<http://localhost:8080/source/studistoriciefilologico-letterari> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Studi storici e filologico-letterari (LT)" .
+<http://localhost:8080/source/studistoriciefilologico-letterari> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/studistoriciefilologico-letterari> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+
+<http://localhost:8080/source/STO0008624> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/giurisprudenza> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Giurisprudenza (LM5)" .
+<http://localhost:8080/source/giurisprudenza> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008624> .
+<http://localhost:8080/source/giurisprudenza> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/giurisprudenza> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM5" .
+
+<http://localhost:8080/source/STO0008630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/sociologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/sociologia> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+<http://localhost:8080/source/sociologia> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Sociologia (LT)" .
+<http://localhost:8080/source/sociologia> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008630> .
+
+<http://localhost:8080/source/ingegneriadell%27informazioneedellecomunicazioni> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008629> .
+<http://localhost:8080/source/ingegneriadell%27informazioneedellecomunicazioni> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/ingegneriadell%27informazioneedellecomunicazioni> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Ingegneria dell'informazione e delle comunicazioni (LM)" .
+<http://localhost:8080/source/STO0008629> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/ingegneriadell%27informazioneedellecomunicazioni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+
+<http://localhost:8080/source/ingegneriaperl%27ambienteeilterritorio> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008626> .
+<http://localhost:8080/source/ingegneriaperl%27ambienteeilterritorio> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+<http://localhost:8080/source/STO0008626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/ingegneriaperl%27ambienteeilterritorio> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Ingegneria per l'ambiente e il territorio (LT)" .
+<http://localhost:8080/source/ingegneriaperl%27ambienteeilterritorio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+
+<http://localhost:8080/source/ingegneriaindustriale> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Ingegneria industriale (LT)" .
+<http://localhost:8080/source/ingegneriaindustriale> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+<http://localhost:8080/source/STO0008625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/ingegneriaindustriale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/ingegneriaindustriale> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008625> .
+
+<http://localhost:8080/source/informatica> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008629> .
+<http://localhost:8080/source/informatica> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Informatica (LT)" .
+<http://localhost:8080/source/STO0008629> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/informatica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/informatica> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+
+<http://localhost:8080/source/amministrazioneaziendaleediritto> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008621> .
+<http://localhost:8080/source/amministrazioneaziendaleediritto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/amministrazioneaziendaleediritto> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+<http://localhost:8080/source/STO0008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/amministrazioneaziendaleediritto> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Amministrazione aziendale e diritto (LT)" .
+
+<http://localhost:8080/source/fisica> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+<http://localhost:8080/source/fisica> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Fisica (LT)" .
+<http://localhost:8080/source/fisica> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008627> .
+<http://localhost:8080/source/fisica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/STO0008627> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+
+<http://localhost:8080/source/ingegneriadell%27informazioneedellecomunicazioni> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008629> .
+<http://localhost:8080/source/ingegneriadell%27informazioneedellecomunicazioni> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+<http://localhost:8080/source/STO0008629> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/ingegneriadell%27informazioneedellecomunicazioni> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Ingegneria dell'informazione e delle comunicazioni (LT)" .
+<http://localhost:8080/source/ingegneriadell%27informazioneedellecomunicazioni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+
+<http://localhost:8080/source/economiaemanagement> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Economia e management (LT)" .
+<http://localhost:8080/source/economiaemanagement> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+<http://localhost:8080/source/economiaemanagement> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008621> .
+<http://localhost:8080/source/STO0008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/economiaemanagement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+
+<http://localhost:8080/source/matematica> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+<http://localhost:8080/source/matematica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/STO0008628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/matematica> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008628> .
+<http://localhost:8080/source/matematica> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Matematica (LT)" .
+
+<http://localhost:8080/source/scienzeetecnologiebiomolecolari> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008662> .
+<http://localhost:8080/source/scienzeetecnologiebiomolecolari> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/scienzeetecnologiebiomolecolari> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Scienze e tecnologie biomolecolari (LT)" .
+<http://localhost:8080/source/STO0008662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/scienzeetecnologiebiomolecolari> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+
+<http://localhost:8080/source/datascience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/STO0008628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/datascience> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/datascience> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008628> .
+<http://localhost:8080/source/datascience> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Data science (LM)" .
+
+<http://localhost:8080/source/informatica> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008629> .
+<http://localhost:8080/source/informatica> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/STO0008629> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/informatica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/informatica> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Informatica (LM)" .
+
+<http://localhost:8080/source/STO0008632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/filologiaecriticaletteraria> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Filologia e critica letteraria (LM)" .
+<http://localhost:8080/source/filologiaecriticaletteraria> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008632> .
+<http://localhost:8080/source/filologiaecriticaletteraria> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/filologiaecriticaletteraria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+
+<http://localhost:8080/source/ingegneriacivile> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008626> .
+<http://localhost:8080/source/ingegneriacivile> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/STO0008626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/ingegneriacivile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/ingegneriacivile> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Ingegneria civile (LM)" .
+
+<http://localhost:8080/source/fisica> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008627> .
+<http://localhost:8080/source/fisica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/STO0008627> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/fisica> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Fisica (LM)" .
+<http://localhost:8080/source/fisica> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+
+<http://localhost:8080/source/ingegneriaperl%27ambienteeilterritorio> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008626> .
+<http://localhost:8080/source/ingegneriaperl%27ambienteeilterritorio> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Ingegneria per l'ambiente e il territorio (LM)" .
+<http://localhost:8080/source/ingegneriaperl%27ambienteeilterritorio> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/STO0008626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/ingegneriaperl%27ambienteeilterritorio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+
+<http://localhost:8080/source/ingegneriaedile-architettura> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Ingegneria edile-architettura (LM5)" .
+<http://localhost:8080/source/ingegneriaedile-architettura> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008626> .
+<http://localhost:8080/source/ingegneriaedile-architettura> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/STO0008626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/ingegneriaedile-architettura> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM5" .
+
+<http://localhost:8080/source/artificialintelligencesystems> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/artificialintelligencesystems> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008629> .
+<http://localhost:8080/source/artificialintelligencesystems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/artificialintelligencesystems> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Artificial intelligence systems (LM)" .
+<http://localhost:8080/source/STO0008629> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+
+<http://localhost:8080/source/economiaelegislazioned%27impresa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/economiaelegislazioned%27impresa> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/economiaelegislazioned%27impresa> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Economia e legislazione d'impresa (LM)" .
+<http://localhost:8080/source/economiaelegislazioned%27impresa> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008621> .
+<http://localhost:8080/source/STO0008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+
+<http://localhost:8080/source/management> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/management> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Management (LM)" .
+<http://localhost:8080/source/management> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/STO0008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/management> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008621> .
+
+<http://localhost:8080/source/scienzeetecnichedipsicologiacognitiva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/scienzeetecnichedipsicologiacognitiva> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008631> .
+<http://localhost:8080/source/scienzeetecnichedipsicologiacognitiva> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Scienze e tecniche di psicologia cognitiva (LT)" .
+<http://localhost:8080/source/scienzeetecnichedipsicologiacognitiva> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+<http://localhost:8080/source/STO0008631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+
+<http://localhost:8080/source/psicologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/psicologia> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Psicologia (LM)" .
+<http://localhost:8080/source/psicologia> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/psicologia> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008631> .
+<http://localhost:8080/source/STO0008631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+
+<http://localhost:8080/source/linguemoderne> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008632> .
+<http://localhost:8080/source/STO0008632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/linguemoderne> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Lingue moderne (LT)" .
+<http://localhost:8080/source/linguemoderne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/linguemoderne> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+
+<http://localhost:8080/source/STO0008625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/ingegneriameccatronica> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008625> .
+<http://localhost:8080/source/ingegneriameccatronica> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/ingegneriameccatronica> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Ingegneria meccatronica (LM)" .
+<http://localhost:8080/source/ingegneriameccatronica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+
+<http://localhost:8080/source/STO0008630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/sociologyandsocialresearch-sociologiaericercasociale> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Sociology and social research - sociologia e ricerca sociale (LM)" .
+<http://localhost:8080/source/sociologyandsocialresearch-sociologiaericercasociale> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008630> .
+<http://localhost:8080/source/sociologyandsocialresearch-sociologiaericercasociale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/sociologyandsocialresearch-sociologiaericercasociale> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+
+<http://localhost:8080/source/matematica> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Matematica (LM)" .
+<http://localhost:8080/source/matematica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/matematica> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/STO0008628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/matematica> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008628> .
+
+<http://localhost:8080/source/letteratureeuroamericane%2Ctraduzioneecriticaletteraria> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008632> .
+<http://localhost:8080/source/letteratureeuroamericane%2Ctraduzioneecriticaletteraria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/letteratureeuroamericane%2Ctraduzioneecriticaletteraria> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/STO0008632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/letteratureeuroamericane%2Ctraduzioneecriticaletteraria> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Letterature euroamericane, traduzione e critica letteraria (LM)" .
+
+<http://localhost:8080/source/human-computerinteraction-interazionepersona-macchina> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008631> .
+<http://localhost:8080/source/human-computerinteraction-interazionepersona-macchina> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Human-computer interaction - interazione persona-macchina (LM)" .
+<http://localhost:8080/source/human-computerinteraction-interazionepersona-macchina> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/human-computerinteraction-interazionepersona-macchina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/STO0008631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+
+<http://localhost:8080/source/internationalmanagement-managementinternazionale> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008621> .
+<http://localhost:8080/source/internationalmanagement-managementinternazionale> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/internationalmanagement-managementinternazionale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/STO0008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/internationalmanagement-managementinternazionale> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "International management - management internazionale (LM)" .
+
+<http://localhost:8080/source/gestionedelleorganizzazioniedelterritorio> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Gestione delle organizzazioni e del territorio (LM)" .
+<http://localhost:8080/source/STO0008630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/gestionedelleorganizzazioniedelterritorio> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008630> .
+<http://localhost:8080/source/gestionedelleorganizzazioniedelterritorio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/gestionedelleorganizzazioniedelterritorio> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+
+<http://localhost:8080/source/finanza> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/finanza> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008621> .
+<http://localhost:8080/source/STO0008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/finanza> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/finanza> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Finanza (LM)" .
+
+<http://localhost:8080/source/interfacceetecnologiedellacomunicazione> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008631> .
+<http://localhost:8080/source/interfacceetecnologiedellacomunicazione> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Interfacce e tecnologie della comunicazione (LT)" .
+<http://localhost:8080/source/interfacceetecnologiedellacomunicazione> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+<http://localhost:8080/source/interfacceetecnologiedellacomunicazione> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/STO0008631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+
+<http://localhost:8080/source/metodologia%2Corganizzazioneevalutazionedeiservizisociali> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/STO0008630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/metodologia%2Corganizzazioneevalutazionedeiservizisociali> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/metodologia%2Corganizzazioneevalutazionedeiservizisociali> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Metodologia, organizzazione e valutazione dei servizi sociali (LM)" .
+<http://localhost:8080/source/metodologia%2Corganizzazioneevalutazionedeiservizisociali> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008630> .
+
+<http://localhost:8080/source/internationalsecuritystudies> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008633> .
+<http://localhost:8080/source/STO0008633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/internationalsecuritystudies> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "International security studies (LM)" .
+<http://localhost:8080/source/internationalsecuritystudies> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/internationalsecuritystudies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+
+<http://localhost:8080/source/biologiaquantitativaecomputazionale> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008662> .
+<http://localhost:8080/source/STO0008662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/biologiaquantitativaecomputazionale> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/biologiaquantitativaecomputazionale> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Biologia quantitativa e computazionale (LM)" .
+<http://localhost:8080/source/biologiaquantitativaecomputazionale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+
+<http://localhost:8080/source/serviziosociale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/serviziosociale> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008630> .
+<http://localhost:8080/source/STO0008630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/serviziosociale> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Servizio sociale (LT)" .
+<http://localhost:8080/source/serviziosociale> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+
+<http://localhost:8080/source/ingegneriainformatica%2Cdellecomunicazioniedelettronica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/ingegneriainformatica%2Cdellecomunicazioniedelettronica> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008629> .
+<http://localhost:8080/source/ingegneriainformatica%2Cdellecomunicazioniedelettronica> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+<http://localhost:8080/source/STO0008629> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/ingegneriainformatica%2Cdellecomunicazioniedelettronica> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Ingegneria informatica, delle comunicazioni ed elettronica (LT)" .
+
+<http://localhost:8080/source/STO0008624> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/comparative%2Ceuropeanandinternationallegalstudies> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Comparative, european and international legal studies (LT)" .
+<http://localhost:8080/source/comparative%2Ceuropeanandinternationallegalstudies> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008624> .
+<http://localhost:8080/source/comparative%2Ceuropeanandinternationallegalstudies> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+<http://localhost:8080/source/comparative%2Ceuropeanandinternationallegalstudies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+
+<http://localhost:8080/source/viticolturaedenologia> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0012250> .
+<http://localhost:8080/source/viticolturaedenologia> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+<http://localhost:8080/source/STO0012250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/viticolturaedenologia> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Viticoltura ed enologia (LT)" .
+<http://localhost:8080/source/viticolturaedenologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+
+<http://localhost:8080/source/ingegneriadell%27informazioneeorganizzazioned%27impresa> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Ingegneria dell'informazione e organizzazione d'impresa (LT)" .
+<http://localhost:8080/source/ingegneriadell%27informazioneeorganizzazioned%27impresa> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+<http://localhost:8080/source/ingegneriadell%27informazioneeorganizzazioned%27impresa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/ingegneriadell%27informazioneeorganizzazioned%27impresa> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008629> .
+<http://localhost:8080/source/STO0008629> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+
+<http://localhost:8080/source/biotecnologiecellulariemolecolari> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/biotecnologiecellulariemolecolari> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Biotecnologie cellulari e molecolari (LM)" .
+<http://localhost:8080/source/STO0008662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/biotecnologiecellulariemolecolari> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/biotecnologiecellulariemolecolari> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008662> .
+
+<http://localhost:8080/source/STO0008630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/globalandlocalstudies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/globalandlocalstudies> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/globalandlocalstudies> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008630> .
+<http://localhost:8080/source/globalandlocalstudies> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Global and local studies (LM)" .
+
+<http://localhost:8080/source/ingegneriacivile%2Cambientaleemeccanica> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "D1" .
+<http://localhost:8080/source/ingegneriacivile%2Cambientaleemeccanica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/ingegneriacivile%2Cambientaleemeccanica> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008626> .
+<http://localhost:8080/source/STO0008626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/ingegneriacivile%2Cambientaleemeccanica> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Ingegneria civile, ambientale e meccanica (D1)" .
+
+<http://localhost:8080/source/europeanandinternationalstudies-studieuropeieinternazionali> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008633> .
+<http://localhost:8080/source/STO0008633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/europeanandinternationalstudies-studieuropeieinternazionali> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/europeanandinternationalstudies-studieuropeieinternazionali> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/europeanandinternationalstudies-studieuropeieinternazionali> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "European and international studies - studi europei e internazionali (LM)" .
+
+<http://localhost:8080/source/STO0008625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/materialsandproductionengineering-ingegneriadeimaterialiedellaproduzione> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/materialsandproductionengineering-ingegneriadeimaterialiedellaproduzione> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/materialsandproductionengineering-ingegneriadeimaterialiedellaproduzione> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008625> .
+<http://localhost:8080/source/materialsandproductionengineering-ingegneriadeimaterialiedellaproduzione> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Materials and production engineering - ingegneria dei materiali e della produzione (LM)" .
+
+<http://localhost:8080/source/arte> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008632> .
+<http://localhost:8080/source/arte> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/STO0008632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/arte> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Arte (LM)" .
+<http://localhost:8080/source/arte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+
+<http://localhost:8080/source/mediazionelinguistica%2Cturismoeculture> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008632> .
+<http://localhost:8080/source/STO0008632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/mediazionelinguistica%2Cturismoeculture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/mediazionelinguistica%2Cturismoeculture> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/mediazionelinguistica%2Cturismoeculture> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Mediazione linguistica, turismo e culture (LM)" .
+
+<http://localhost:8080/source/medicinaechirurgia> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM6" .
+<http://localhost:8080/source/medicinaechirurgia> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Medicina e chirurgia (LM6)" .
+<http://localhost:8080/source/medicinaechirurgia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/medicinaechirurgia> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008662> .
+<http://localhost:8080/source/STO0008662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+
+<http://localhost:8080/source/behaviouralandappliedeconomics-economiacomportamentaleeapplicata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/behaviouralandappliedeconomics-economiacomportamentaleeapplicata> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/STO0008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/behaviouralandappliedeconomics-economiacomportamentaleeapplicata> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008621> .
+<http://localhost:8080/source/behaviouralandappliedeconomics-economiacomportamentaleeapplicata> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Behavioural and applied economics - economia comportamentale e applicata (LM)" .
+
+<http://localhost:8080/source/studiinternazionali> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LT" .
+<http://localhost:8080/source/studiinternazionali> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008630> .
+<http://localhost:8080/source/STO0008630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/studiinternazionali> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Studi internazionali (LT)" .
+<http://localhost:8080/source/studiinternazionali> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+
+<http://localhost:8080/source/STO0008632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/scienzestoriche> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/scienzestoriche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/scienzestoriche> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Scienze storiche (LM)" .
+<http://localhost:8080/source/scienzestoriche> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008632> .
+
+<http://localhost:8080/source/innovationmanagement-managementdell%27innovazione> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Innovation management - management dell'innovazione (LM)" .
+<http://localhost:8080/source/STO0008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/innovationmanagement-managementdell%27innovazione> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008621> .
+<http://localhost:8080/source/innovationmanagement-managementdell%27innovazione> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/innovationmanagement-managementdell%27innovazione> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+
+<http://localhost:8080/source/managementdellasostenibilitàedelturismo> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008621> .
+<http://localhost:8080/source/managementdellasostenibilitàedelturismo> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/STO0008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/managementdellasostenibilitàedelturismo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/managementdellasostenibilitàedelturismo> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Management della sostenibilità e del turismo (LM)" .
+
+<http://localhost:8080/source/ingegneriaenergetica> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Ingegneria energetica (LM)" .
+<http://localhost:8080/source/STO0008626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/ingegneriaenergetica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/ingegneriaenergetica> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/ingegneriaenergetica> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008626> .
+
+<http://localhost:8080/source/environmentalmeteorology> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008626> .
+<http://localhost:8080/source/environmentalmeteorology> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Environmental meteorology (LM)" .
+<http://localhost:8080/source/environmentalmeteorology> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/environmentalmeteorology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/STO0008626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+
+<http://localhost:8080/source/cognitivescience-scienzecognitive> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/cognitivescience-scienzecognitive> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Cognitive science - scienze cognitive (LM)" .
+<http://localhost:8080/source/STO0008663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/cognitivescience-scienzecognitive> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008663> .
+<http://localhost:8080/source/cognitivescience-scienzecognitive> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+
+<http://localhost:8080/source/schoolofinnovation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/schoolofinnovation> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "CS" .
+<http://localhost:8080/source/schoolofinnovation> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008621> .
+<http://localhost:8080/source/schoolofinnovation> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "School of innovation (CS)" .
+<http://localhost:8080/source/STO0008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+
+<http://localhost:8080/source/filosofiaelinguaggidellamodernità> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/filosofiaelinguaggidellamodernità> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008632> .
+<http://localhost:8080/source/STO0008632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/filosofiaelinguaggidellamodernità> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/filosofiaelinguaggidellamodernità> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Filosofia e linguaggi della modernità (LM)" .
+
+<http://localhost:8080/source/agrifoodinnovationmanagement> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/agrifoodinnovationmanagement> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0012250> .
+<http://localhost:8080/source/agrifoodinnovationmanagement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/agrifoodinnovationmanagement> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Agrifood innovation management (LM)" .
+<http://localhost:8080/source/STO0012250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+
+<http://localhost:8080/source/centrolinguisticod%27ateneo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/centrolinguisticod%27ateneo> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "CLA" .
+<http://localhost:8080/source/STO0011639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/centrolinguisticod%27ateneo> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Centro linguistico d'ateneo (CLA)" .
+<http://localhost:8080/source/centrolinguisticod%27ateneo> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0011639> .
+
+<http://localhost:8080/source/STO0008630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/previsionesociale> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008630> .
+<http://localhost:8080/source/previsionesociale> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "M2" .
+<http://localhost:8080/source/previsionesociale> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Previsione sociale (M2)" .
+<http://localhost:8080/source/previsionesociale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+
+<http://localhost:8080/source/security%2Cintelligenceandstrategicstudies> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/STO0008633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/security%2Cintelligenceandstrategicstudies> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Security, intelligence and strategic studies (LM)" .
+<http://localhost:8080/source/security%2Cintelligenceandstrategicstudies> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008633> .
+<http://localhost:8080/source/security%2Cintelligenceandstrategicstudies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+
+<http://localhost:8080/source/STO0008630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/communicationofscienceandinnovation-scicomm> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Communication of science and innovation - scicomm (M1)" .
+<http://localhost:8080/source/communicationofscienceandinnovation-scicomm> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "M1" .
+<http://localhost:8080/source/communicationofscienceandinnovation-scicomm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/communicationofscienceandinnovation-scicomm> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008630> .
+
+<http://localhost:8080/source/gestionediimpresesociali> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "M1" .
+<http://localhost:8080/source/gestionediimpresesociali> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008621> .
+<http://localhost:8080/source/gestionediimpresesociali> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/gestionediimpresesociali> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Gestione di imprese sociali (g.i.s.) (M1)" .
+<http://localhost:8080/source/STO0008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+
+<http://localhost:8080/source/scienzeagroalimentarieambientali> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/scienzeagroalimentarieambientali> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Scienze agroalimentari e ambientali (D2)" .
+<http://localhost:8080/source/STO0008626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/scienzeagroalimentarieambientali> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "D2" .
+<http://localhost:8080/source/scienzeagroalimentarieambientali> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008626> .
+
+<http://localhost:8080/source/gestionedellediversitàinclusioneedequità> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "M1" .
+<http://localhost:8080/source/gestionedellediversitàinclusioneedequità> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Gestione delle diversità: inclusione ed equità (gedie) (M1)" .
+<http://localhost:8080/source/gestionedellediversitàinclusioneedequità> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008631> .
+<http://localhost:8080/source/gestionedellediversitàinclusioneedequità> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/STO0008631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+
+<http://localhost:8080/source/economics-economia> <http://knowdive.disi.unitn.it/etype#has_degree_type_GID-35898_Type-35898> "LM" .
+<http://localhost:8080/source/economics-economia> <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> "Economics - economia (LM)" .
+<http://localhost:8080/source/economics-economia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> .
+<http://localhost:8080/source/STO0008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#ds:Department> .
+<http://localhost:8080/source/economics-economia> <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> <http://localhost:8080/source/STO0008621> .
+
