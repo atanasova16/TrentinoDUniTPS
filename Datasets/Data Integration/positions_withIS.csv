@@ -1,0 +1,759 @@
+,role,situated_at,unit_id,IS
+0,Guest,Department of Physics,STO0008627,GuestSTO0008627
+1,Guest,Department of Sociology and social research,STO0008630,GuestSTO0008630
+2,Teaching fellow,Department of Humanities,STO0008632,TeachingfellowSTO0008632
+3,Teaching assistant,Department of Economics and Management,STO0008621,TeachingassistantSTO0008621
+4,Teaching fellow,Department of Sociology and social research,STO0008630,TeachingfellowSTO0008630
+5,Full professor,Doctoral School of Social Sciences,STO0000371,FullprofessorSTO0000371
+6,Full professor,Department of Sociology and social research,STO0008630,FullprofessorSTO0008630
+7,Research collaborator,"Department of Cellular, Computational and Integrative Biology - CIBIO",STO0008662,ResearchcollaboratorSTO0008662
+8,Teaching assistant,Department of Mathematics,STO0008628,TeachingassistantSTO0008628
+9,Research fellowship holder,Department of Mathematics,STO0008628,ResearchfellowshipholderSTO0008628
+10,PhD student,PhD programme (Ministerial Decree 45/2013) - Information and Engineering and Computer Science,STO0013634,PhDstudentSTO0013634
+11,Staff,Planning Division,STO0000863,StaffSTO0000863
+12,Staff,Psychology and Cognitive Science - Laboratory Technicians,STO0008911,StaffSTO0008911
+13,Staff,Alumni office,STO0013543,StaffSTO0013543
+14,PhD student,Doctoral programme вЂ“ Biomolecular Sciences,STO0002101,PhDstudentSTO0002101
+15,Staff,Research Outputs Office,STO0001641,StaffSTO0001641
+16,PhD student,Doctoral programme вЂ“ International studies,STO0000462,PhDstudentSTO0000462
+17,Full professor,Department of Psychology and Cognitive Science,STO0008631,FullprofessorSTO0008631
+18,PhD student,Doctoral programme - Sociology and Social Research (Doctoral School of Social Sciences),STO0004802,PhDstudentSTO0004802
+19,Associate professor,Department of Physics,STO0008627,AssociateprofessorSTO0008627
+20,Guest,Center for Mind/Brain Sciences - CIMeC,STO0008663,GuestSTO0008663
+21,PhD student,Doctoral programme - Le Forme del Testo,STO0010809,PhDstudentSTO0010809
+22,Staff,CIMeC - Technical and IT Support,STO0008913,StaffSTO0008913
+23,PhD student,Doctoral programme - Cognitive and Brain Sciences,STO0000432,PhDstudentSTO0000432
+24,Staff,Social security,STO0000238,StaffSTO0000238
+25,Teaching fellow,School of International Studies - SIS,STO0008633,TeachingfellowSTO0008633
+26,Research collaborator,"Department of Civil, Environmental and Mechanical Engineering",STO0008626,ResearchcollaboratorSTO0008626
+27,Staff,Student Activities Office,STO0000958,StaffSTO0000958
+28,Research collaborator,Faculty of Law,STO0008624,ResearchcollaboratorSTO0008624
+29,Collaborator,"Language Centre, Test Center and Digital Teaching Resources",STO0008921,CollaboratorSTO0008921
+30,Research collaborator,Department of Economics and Management,STO0008621,ResearchcollaboratorSTO0008621
+31,Teaching assistant,Department of Industrial Engineering,STO0008625,TeachingassistantSTO0008625
+32,Research fellowship holder,Department of Industrial Engineering,STO0008625,ResearchfellowshipholderSTO0008625
+33,Associate professor,Faculty of Law,STO0008624,AssociateprofessorSTO0008624
+34,Teaching assistant,"Department of Cellular, Computational and Integrative Biology - CIBIO",STO0008662,TeachingassistantSTO0008662
+35,Guest,Department of Information Engineering and Computer Science,STO0008629,GuestSTO0008629
+36,Staff,International Mobility Office - Social Sciences Area and Humanities,STO0012567,StaffSTO0012567
+37,Staff,Purchasing and Accounting - Trento,STO0008891,StaffSTO0008891
+38,Guest,"Department of Cellular, Computational and Integrative Biology - CIBIO",STO0008662,GuestSTO0008662
+39,PhD student,Doctoral Program in Industrial Innovation (M.D. 45/2013),STO0012998,PhDstudentSTO0012998
+40,Associate professor,Center for Mind/Brain Sciences - CIMeC,STO0008663,AssociateprofessorSTO0008663
+41,Associate professor,Department of Psychology and Cognitive Science,STO0008631,AssociateprofessorSTO0008631
+42,Associate professor,Department of Industrial Engineering,STO0008625,AssociateprofessorSTO0008625
+43,Guest,Department of Industrial Engineering,STO0008625,GuestSTO0008625
+44,Staff,International Relations,STO0012564,StaffSTO0012564
+45,PhD student,Doctoral programme вЂ“ Physics,STO0000435,PhDstudentSTO0000435
+46,Full professor,Department of Mathematics,STO0008628,FullprofessorSTO0008628
+47,Research fellowship holder,"Department of Cellular, Computational and Integrative Biology - CIBIO",STO0008662,ResearchfellowshipholderSTO0008662
+48,Assistant professor,Department of Economics and Management,STO0008621,AssistantprofessorSTO0008621
+49,PhD student,Doctoral Program in Agrifood and Environmental Sciences (D.M.45/2013),STO0012999,PhDstudentSTO0012999
+50,PhD student,Doctoral programme вЂ“ Comparative and European legal studies,STO0000434,PhDstudentSTO0000434
+51,PhD student,"Doctoral programme - Culture d'Europa. Ambiente, spazi, storie, arti, idee",STO0010808,PhDstudentSTO0010808
+52,PhD student,Doctoral programme (D.M.45/2013) вЂ“ Cognitive Science,STO0012756,PhDstudentSTO0012756
+53,Research fellowship holder,Department of Humanities,STO0008632,ResearchfellowshipholderSTO0008632
+54,Guest,Department of Psychology and Cognitive Science,STO0008631,GuestSTO0008631
+55,Associate professor,Department of Mathematics,STO0008628,AssociateprofessorSTO0008628
+56,Staff,Administrative Services for Teaching and Research Activities - Trento,STO0008890,StaffSTO0008890
+57,PhD student,Doctoral programme - Economics and management (Doctoral School of Social Sciences),STO0004803,PhDstudentSTO0004803
+58,Staff,Information Engineering and Computer Science - Department Staff,STO0008895,StaffSTO0008895
+59,Teaching assistant,Faculty of Law,STO0008624,TeachingassistantSTO0008624
+60,Staff,Division for the Valorization and Impact of Research,STO0013553,StaffSTO0013553
+61,Staff,BUC Rooms and Training,STO0012836,StaffSTO0012836
+62,Teaching assistant,Department of Psychology and Cognitive Science,STO0008631,TeachingassistantSTO0008631
+63,Employees' representative for safety issues,University of Trento,STO0000001,Employees'representativeforsafetyissuesSTO0000001
+64,Associate professor,Department of Humanities,STO0008632,AssociateprofessorSTO0008632
+65,Full professor,Department of Humanities,STO0008632,FullprofessorSTO0008632
+66,Assistant professor,Department of Psychology and Cognitive Science,STO0008631,AssistantprofessorSTO0008631
+67,Staff,Industrial Engineering - Department Staff,STO0008898,StaffSTO0008898
+68,Guest,Department of Humanities,STO0008632,GuestSTO0008632
+69,Research fellowship holder,Center for Mind/Brain Sciences - CIMeC,STO0008663,ResearchfellowshipholderSTO0008663
+70,Teaching assistant,Centre Agriculture Food Environment - C3A,STO0012250,TeachingassistantSTO0012250
+71,Teaching fellow,Department of Economics and Management,STO0008621,TeachingfellowSTO0008621
+72,Assistant professor,Department of Mathematics,STO0008628,AssistantprofessorSTO0008628
+73,Assistant professor,Faculty of Law,STO0008624,AssistantprofessorSTO0008624
+74,Visiting professor,Department of Psychology and Cognitive Science,STO0008631,VisitingprofessorSTO0008631
+75,Staff,Contract Office,STO0000907,StaffSTO0000907
+76,Guest,Department of Economics and Management,STO0008621,GuestSTO0008621
+77,Staff,Maintenance at departments and centres,STO0008866,StaffSTO0008866
+78,Staff,Academic and Teaching Staff Office,STO0000868,StaffSTO0000868
+79,Staff,Center for Mind/Brain Sciences - Staff,STO0008912,StaffSTO0008912
+80,Teaching assistant,Department of Sociology and social research,STO0008630,TeachingassistantSTO0008630
+81,Research fellowship holder,Department of Sociology and social research,STO0008630,ResearchfellowshipholderSTO0008630
+82,Adjunct professor,Department of Psychology and Cognitive Science,STO0008631,AdjunctprofessorSTO0008631
+83,Director,Department of Physics,STO0008627,DirectorSTO0008627
+84,Member,Council of Directors,ORI0000101,MemberORI0000101
+85,Full professor,Department of Physics,STO0008627,FullprofessorSTO0008627
+86,Head,"Protocol, archive and postal services",STO0009626,HeadSTO0009626
+87,Staff,"Protocol, archive and postal services",STO0009626,StaffSTO0009626
+88,Staff,Communications Staff - Trento,STO0008862,StaffSTO0008862
+89,Head,Development of Online Services and User Support,STO0008920,HeadSTO0008920
+90,Staff,Development of Online Services and User Support,STO0008920,StaffSTO0008920
+91,Staff,Information Engineering and Computer Science - Technical Support,STO0008897,StaffSTO0008897
+92,Research fellowship holder,Centre Agriculture Food Environment - C3A,STO0012250,ResearchfellowshipholderSTO0012250
+93,Assistant professor,"Department of Cellular, Computational and Integrative Biology - CIBIO",STO0008662,AssistantprofessorSTO0008662
+94,Staff,Laboratory staff,STO0013711,StaffSTO0013711
+95,Teaching fellow,"Department of Cellular, Computational and Integrative Biology - CIBIO",STO0008662,TeachingfellowSTO0008662
+96,Staff,Core Facilities,STO0013710,StaffSTO0013710
+97,Research fellowship holder,Faculty of Law,STO0008624,ResearchfellowshipholderSTO0008624
+98,Teaching fellow,Faculty of Law,STO0008624,TeachingfellowSTO0008624
+99,Teaching fellow,"Department of Civil, Environmental and Mechanical Engineering",STO0008626,TeachingfellowSTO0008626
+100,Teaching assistant,"Department of Civil, Environmental and Mechanical Engineering",STO0008626,TeachingassistantSTO0008626
+101,PhD student,Doctoral programme вЂ“ Mathematics,STO0000461,PhDstudentSTO0000461
+102,Staff,Property and Real Estate Division,STO0000160,StaffSTO0000160
+103,Teaching assistant,Department of Physics,STO0008627,TeachingassistantSTO0008627
+104,PhD student,"Doctoral programme вЂ“ Materials, Mechatronics and Systems Engineering",STO0009701,PhDstudentSTO0009701
+105,Linguistic expert,University Language Centre,STO0008940,LinguisticexpertSTO0008940
+106,Research grant holder,Department of Sociology and social research,STO0008630,ResearchgrantholderSTO0008630
+107,Research fellowship holder,Department of Psychology and Cognitive Science,STO0008631,ResearchfellowshipholderSTO0008631
+108,Research fellowship holder,"Department of Civil, Environmental and Mechanical Engineering",STO0008626,ResearchfellowshipholderSTO0008626
+109,Visiting professor,Faculty of Law,STO0008624,VisitingprofessorSTO0008624
+110,Member,"Committee for Equal Opportunities, Well-being at Work and Against Discriminations (CUG)",ORI0000241,MemberORI0000241
+111,Research grant holder,Department of Humanities,STO0008632,ResearchgrantholderSTO0008632
+112,Deputy coordinator,Doctoral programme - Le Forme del Testo,STO0010809,DeputycoordinatorSTO0010809
+113,Associate professor,Doctoral programme - Le Forme del Testo,STO0010809,AssociateprofessorSTO0010809
+114,PhD student,"Doctoral programme вЂ“ Civil, environmental and mechanical engineering",STO0009561,PhDstudentSTO0009561
+115,Teaching fellow,Centre Agriculture Food Environment - C3A,STO0012250,TeachingfellowSTO0012250
+116,Research grant holder,Faculty of Law,STO0008624,ResearchgrantholderSTO0008624
+117,Research collaborator,Department of Information Engineering and Computer Science,STO0008629,ResearchcollaboratorSTO0008629
+118,Visiting professor,Center for Mind/Brain Sciences - CIMeC,STO0008663,VisitingprofessorSTO0008663
+119,Assistant professor,Department of Physics,STO0008627,AssistantprofessorSTO0008627
+120,Staff,Orientation office,STO0013562,StaffSTO0013562
+121,PhD student,"PhD programme (Ministerial Decree 45/2013) - Sustainability: Economics, Environment, Management and Society",STO0013318,PhDstudentSTO0013318
+122,Staff,"Student Support Service: Economics, Law and International Studies",STO0008929,StaffSTO0008929
+123,Staff,General Accounting,STO0000239,StaffSTO0000239
+124,Head,"Institutional Relations Office supporting the Rector, the President of the Board of Directors and the Director General",STO0013731,HeadSTO0013731
+125,Staff,"Institutional Relations Office supporting the Rector, the President of the Board of Directors and the Director General",STO0013731,StaffSTO0013731
+126,Staff,Economics and Management - Department Staff,STO0008907,StaffSTO0008907
+127,Teaching assistant,Department of Information Engineering and Computer Science,STO0008629,TeachingassistantSTO0008629
+128,Director,Department of Psychology and Cognitive Science,STO0008631,DirectorSTO0008631
+129,Guest,Department of Mathematics,STO0008628,GuestSTO0008628
+130,Staff,"Civil, Environmental and Mechanical Engineering - Laboratory Technicians",STO0008902,StaffSTO0008902
+131,Staff,Administration and Accounting Office - Estates Directorate,STO0000901,StaffSTO0000901
+132,Assistant professor,Department of Information Engineering and Computer Science,STO0008629,AssistantprofessorSTO0008629
+133,Students' representative,Economics and Management - Department Council,ORI0000261,Students'representativeORI0000261
+134,Collaborator,Human Resources and Organization,STO0000143,CollaboratorSTO0000143
+135,Teaching fellow,Department of Information Engineering and Computer Science,STO0008629,TeachingfellowSTO0008629
+136,Full professor,Centre for Medical Sciences - CISMED,STO0013533,FullprofessorSTO0013533
+137,Full professor,"Department of Cellular, Computational and Integrative Biology - CIBIO",STO0008662,FullprofessorSTO0008662
+138,Full professor,Center for Mind/Brain Sciences - CIMeC,STO0008663,FullprofessorSTO0008663
+139,Staff,"Management of national, EU and international research programmes office",STO0013561,StaffSTO0013561
+140,Research fellowship holder,Department of Physics,STO0008627,ResearchfellowshipholderSTO0008627
+141,Assistant professor,Centre for Medical Sciences - CISMED,STO0013533,AssistantprofessorSTO0013533
+142,Full professor,"Department of Civil, Environmental and Mechanical Engineering",STO0008626,FullprofessorSTO0008626
+143,Research grant holder,"Department of Civil, Environmental and Mechanical Engineering",STO0008626,ResearchgrantholderSTO0008626
+144,Associate professor,"Department of Cellular, Computational and Integrative Biology - CIBIO",STO0008662,AssociateprofessorSTO0008662
+145,Head,Povo University Library (BUP) room,STO0000291,HeadSTO0000291
+146,Staff,Povo University Library (BUP) room,STO0000291,StaffSTO0000291
+147,Associate professor,"Department of Civil, Environmental and Mechanical Engineering",STO0008626,AssociateprofessorSTO0008626
+148,Assistant professor,Department of Sociology and social research,STO0008630,AssistantprofessorSTO0008630
+149,Guest,"Center for Neuroscience and Cognitive Systems@UniTn, Italian Institute of Technology, Rovereto, Italy",STO0008701,GuestSTO0008701
+150,Member,Academic Senate,ORI0000002,MemberORI0000002
+151,Full professor,Department of Information Engineering and Computer Science,STO0008629,FullprofessorSTO0008629
+152,Teaching assistant,Department of Humanities,STO0008632,TeachingassistantSTO0008632
+153,Associate professor,Department of Information Engineering and Computer Science,STO0008629,AssociateprofessorSTO0008629
+154,Associate professor,Department of Sociology and social research,STO0008630,AssociateprofessorSTO0008630
+155,Staff,Education and Student Services - Science and technology area,STO0008932,StaffSTO0008932
+156,Deputy dean,Department of Sociology and social research,STO0008630,DeputydeanSTO0008630
+157,Research fellowship holder,Department of Information Engineering and Computer Science,STO0008629,ResearchfellowshipholderSTO0008629
+158,Teaching fellow,Department of Physics,STO0008627,TeachingfellowSTO0008627
+159,PhD student,Doctoral programme вЂ“ Information and Communication Technology,STO0000451,PhDstudentSTO0000451
+160,Guest,"Department of Civil, Environmental and Mechanical Engineering",STO0008626,GuestSTO0008626
+161,Associate professor,Centre Agriculture Food Environment - C3A,STO0012250,AssociateprofessorSTO0012250
+162,Staff,Training and Continuing Professional Development,STO0000235,StaffSTO0000235
+163,Staff,Physics - Laboratory Technicians,STO0008893,StaffSTO0008893
+164,Staff,Department of Sociology and social research,STO0008630,StaffSTO0008630
+165,Staff,Physical Science Laboratories,STO0013708,StaffSTO0013708
+166,Senior Professor,Department of Mathematics,STO0008628,SeniorProfessorSTO0008628
+167,Senior Professor,Department of Physics,STO0008627,SeniorProfessorSTO0008627
+168,Head,General Accounting,STO0000239,HeadSTO0000239
+169,Head,Industrial Engineering - Department Staff,STO0008898,HeadSTO0008898
+170,Senior Professor,Faculty of Law,STO0008624,SeniorProfessorSTO0008624
+171,Emeritus professor,Faculty of Law,STO0008624,EmeritusprofessorSTO0008624
+172,Senior Professor,Department of Humanities,STO0008632,SeniorProfessorSTO0008632
+173,Staff,Procurement Office,STO0000413,StaffSTO0000413
+174,Staff,Industrial engineering - Laboratory Technicians,STO0008899,StaffSTO0008899
+175,Head,"Audio, videos and multimedia",STO0008875,HeadSTO0008875
+176,Staff,"Audio, videos and multimedia",STO0008875,StaffSTO0008875
+177,Assistant professor,School of International Studies - SIS,STO0008633,AssistantprofessorSTO0008633
+178,Staff,Student Support Service: Humanities and Social Sciences,STO0008930,StaffSTO0008930
+179,Staff,Administration and Accounting Services - Povo,STO0008885,StaffSTO0008885
+180,Guest,Faculty of Law,STO0008624,GuestSTO0008624
+181,Students' representative,Faculty of Law - Department Council,ORI0000262,Students'representativeORI0000262
+182,Full professor,Department of Industrial Engineering,STO0008625,FullprofessorSTO0008625
+183,Head,International Mobility Office - Science and technology area,STO0012568,HeadSTO0012568
+184,Staff,International Mobility Office - Science and technology area,STO0012568,StaffSTO0012568
+185,Vice-Rector for Organisational and Resource Planning,University of Trento,STO0000001,Vice-RectorforOrganisationalandResourcePlanningSTO0000001
+186,Full professor,Department of Economics and Management,STO0008621,FullprofessorSTO0008621
+187,Full professor,School of International Studies - SIS,STO0008633,FullprofessorSTO0008633
+188,Full professor,Faculty of Law,STO0008624,FullprofessorSTO0008624
+189,President,Joint Committee for the Right to Study and the Valorization of Merit,ORI0000141,PresidentORI0000141
+190,Assistant professor,"Department of Civil, Environmental and Mechanical Engineering",STO0008626,AssistantprofessorSTO0008626
+191,Staff,General-Secretary Education and Student Services,STO0000948,StaffSTO0000948
+192,Head,Purchasing Directorate,STO0000861,HeadSTO0000861
+193,Senior staff,Purchasing Directorate,STO0000861,SeniorstaffSTO0000861
+194,Member,Quality Committee,ORI0000181,MemberORI0000181
+195,Staff,Teaching and Research Quality Assurance,STO0008861,StaffSTO0008861
+196,Staff,"Language Centre, Test Center and Digital Teaching Resources",STO0008921,StaffSTO0008921
+197,Staff,CIMeC - Laboratory Technicians,STO0008914,StaffSTO0008914
+198,Staff,Administration Information Services,STO0013555,StaffSTO0013555
+199,Staff,"Monitoring, Statistics and Policy Development Unit",STO0000267,StaffSTO0000267
+200,Associate professor,Department of Economics and Management,STO0008621,AssociateprofessorSTO0008621
+201,Staff,Funded research staff - Povo-Mesiano,STO0013552,StaffSTO0013552
+202,Research grant holder,Department of Information Engineering and Computer Science,STO0008629,ResearchgrantholderSTO0008629
+203,Staff,Doctoral School of Social Sciences,STO0000371,StaffSTO0000371
+204,Staff,Admissions and Inclusion Office,STO0012566,StaffSTO0012566
+205,Executive assistant to the Head of the Direction,Human Resources and Administration Office,STO0000148,ExecutiveassistanttotheHeadoftheDirectionSTO0000148
+206,Staff,Human Resources and Administration Office,STO0000148,StaffSTO0000148
+207,Teaching fellow,Department of Psychology and Cognitive Science,STO0008631,TeachingfellowSTO0008631
+208,Staff,Web and Social Media Office,STO0012554,StaffSTO0012554
+209,Coordinator,Doctoral programme вЂ“ International studies,STO0000462,CoordinatorSTO0000462
+210,Full professor,Doctoral programme вЂ“ International studies,STO0000462,FullprofessorSTO0000462
+211,Member,Patent commission,ORI0000280,MemberORI0000280
+212,Staff,Technical Services Coordination - Science Departments,STO0000366,StaffSTO0000366
+213,Rector's delegate for Student Services and Relations,University of Trento,STO0000001,Rector'sdelegateforStudentServicesandRelationsSTO0000001
+214,Staff,Test Center,STO0000398,StaffSTO0000398
+215,Staff,Humanities - Laboratory Technicians,STO0008904,StaffSTO0008904
+216,Research fellow,Department of Sociology and social research,STO0008630,ResearchfellowSTO0008630
+217,Head,Test Center,STO0000398,HeadSTO0000398
+218,Vice-Rector for the Development of International Relationships,University of Trento,STO0000001,Vice-RectorfortheDevelopmentofInternationalRelationshipsSTO0000001
+219,Member,Evaluation Group,ORI0000005,MemberORI0000005
+220,Staff,Faculty of Law - Department Staff,STO0008909,StaffSTO0008909
+221,Head,Contract Office,STO0000907,HeadSTO0000907
+222,Member,Committee for Recruitment and Career Advancement,ORI0000161,MemberORI0000161
+223,RectorвЂ™s delegate for the Research Ethics Committee,Research Ethics Committee,ORI0000283,RectorвЂ™sdelegatefortheResearchEthicsCommitteeORI0000283
+224,Vice-president,Research Ethics Committee,ORI0000283,Vice-presidentORI0000283
+225,Staff,Humanities and Cognitive Science Area - PhD Office,STO0008924,StaffSTO0008924
+226,Head,International Mobility Office - Social Sciences Area and Humanities,STO0012567,HeadSTO0012567
+227,Staff,Psychology and Cognitive science - Department Staff,STO0008910,StaffSTO0008910
+228,Teaching assistant,Centre for Medical Sciences - CISMED,STO0013533,TeachingassistantSTO0013533
+229,Staff,Teaching and Research Laboratories,STO0008878,StaffSTO0008878
+230,Staff,Mechanics,STO0000336,StaffSTO0000336
+231,Staff,"Civil, Environmental and Mechanical Engineering - Department Staff",STO0008901,StaffSTO0008901
+232,Staff,Student Support Service - Science and technology area - Mesiano,STO0013746,StaffSTO0013746
+233,Coordinator,Doctoral programme - Cognitive and Brain Sciences,STO0000432,CoordinatorSTO0000432
+234,Full professor,Doctoral programme - Cognitive and Brain Sciences,STO0000432,FullprofessorSTO0000432
+235,Research grant holder,Department of Psychology and Cognitive Science,STO0008631,ResearchgrantholderSTO0008631
+236,Vice-Rector,University of Trento,STO0000001,Vice-RectorSTO0000001
+237,Rector's delegate for Internships and Placements,University of Trento,STO0000001,Rector'sdelegateforInternshipsandPlacementsSTO0000001
+238,Deputy dean,Department of Economics and Management,STO0008621,DeputydeanSTO0008621
+239,Assistant professor,Center for Mind/Brain Sciences - CIMeC,STO0008663,AssistantprofessorSTO0008663
+240,Vice-Rector for research,University of Trento,STO0000001,Vice-RectorforresearchSTO0000001
+241,Research fellowship holder,Department of Economics and Management,STO0008621,ResearchfellowshipholderSTO0008621
+242,Staff,Special Projects,STO0013041,StaffSTO0013041
+243,Students' representative,Industrial Engineering - Department Council,ORI0000263,Students'representativeORI0000263
+244,Assistant professor,Department of Humanities,STO0008632,AssistantprofessorSTO0008632
+245,Associate professor,Centre for Medical Sciences - CISMED,STO0013533,AssociateprofessorSTO0013533
+246,PhD student,Corso di Dottorato (D.M.226/2021) - Forme del testo e dello scambio culturale,STO0013848,PhDstudentSTO0013848
+247,Rector's delegate for Initiatives on Linguistic Minorities,University of Trento,STO0000001,Rector'sdelegateforInitiativesonLinguisticMinoritiesSTO0000001
+248,PhD student,Doctoral programme (D.M.45/2013) - Forms of cultural exchange,STO0013015,PhDstudentSTO0013015
+249,Teaching fellow,"Doctoral programme вЂ“ Civil, environmental and mechanical engineering",STO0009561,TeachingfellowSTO0009561
+250,Staff,ICT Services Division - Trento,STO0008874,StaffSTO0008874
+251,Member,Data Protection Committee,ORI0000285,MemberORI0000285
+252,Rector's delegate for University Community Surveys and Analyses,University of Trento,STO0000001,Rector'sdelegateforUniversityCommunitySurveysandAnalysesSTO0000001
+253,Member,Committee of PhD Candidates and Research Fellowship Holders,ORI0000221,MemberORI0000221
+254,Staff,Humanities - Department Staff,STO0008903,StaffSTO0008903
+255,Head,Tax Accounting,STO0000240,HeadSTO0000240
+256,Staff,Tax Accounting,STO0000240,StaffSTO0000240
+257,Director,Faculty of Law,STO0008624,DirectorSTO0008624
+258,Coordinator,Doctoral programme вЂ“ Comparative and European legal studies,STO0000434,CoordinatorSTO0000434
+259,Full professor,Doctoral programme вЂ“ Comparative and European legal studies,STO0000434,FullprofessorSTO0000434
+260,Staff,Cataloguing and Acquisitions Office,STO0012833,StaffSTO0012833
+261,Adjunct professor,Department of Physics,STO0008627,AdjunctprofessorSTO0008627
+262,Emeritus professor,University of Trento,STO0000001,EmeritusprofessorSTO0000001
+263,Staff,E-Learning,STO0000962,StaffSTO0000962
+264,Emeritus professor,Department of Physics,STO0008627,EmeritusprofessorSTO0008627
+265,Staff,Mathematics - Department Staff,STO0008894,StaffSTO0008894
+266,Staff,"Student Support Service: Psychology and Cognitive Science, Mind and Brain Centre",STO0008935,StaffSTO0008935
+267,Staff,Library - Acquisitions and Contracts Division,STO0012832,StaffSTO0012832
+268,Head,Administrative Services for Teaching and Research Activities - Trento,STO0008890,HeadSTO0008890
+269,Head,Administration and Accounting Services - Trento,STO0008886,HeadSTO0008886
+270,Staff,Administration and Accounting Services - Trento,STO0008886,StaffSTO0008886
+271,Students' representative,Humanities - Department Council,ORI0000270,Students'representativeORI0000270
+272,Member,Board of Auditors,ORI0000006,MemberORI0000006
+273,Research collaborator,Department of Industrial Engineering,STO0008625,ResearchcollaboratorSTO0008625
+274,Member,The University Animal Welfare Committee (OPBA),ORI0000275,MemberORI0000275
+275,Research collaborator,Department of Humanities,STO0008632,ResearchcollaboratorSTO0008632
+276,Head,Mechanics,STO0000336,HeadSTO0000336
+277,Head,Cryogenics,STO0000354,HeadSTO0000354
+278,Staff,Cryogenics,STO0000354,StaffSTO0000354
+279,Rector's delegate for Environmental Sustainability,University of Trento,STO0000001,Rector'sdelegateforEnvironmentalSustainabilitySTO0000001
+280,Deputy coordinator,"PhD programme (Ministerial Decree 45/2013) - Sustainability: Economics, Environment, Management and Society",STO0013318,DeputycoordinatorSTO0013318
+281,Full professor,"PhD programme (Ministerial Decree 45/2013) - Sustainability: Economics, Environment, Management and Society",STO0013318,FullprofessorSTO0013318
+282,Member,Board of Directors,ORI0000003,MemberORI0000003
+283,President,Council of Directors,ORI0000101,PresidentORI0000101
+284,President,Academic Senate,ORI0000002,PresidentORI0000002
+285,Rector,University of Trento,STO0000001,RectorSTO0000001
+286,Head,Rectorate,STO0000006,HeadSTO0000006
+287,Full professor,Rectorate,STO0000006,FullprofessorSTO0000006
+288,Director,Centre of Security and Crime Sciences,STO0013532,DirectorSTO0013532
+289,Head,Teaching and Research Quality Assurance,STO0008861,HeadSTO0008861
+290,Head,ICT Services Division,STO0012556,HeadSTO0012556
+291,Head,ICT Services Division - Trento,STO0008874,HeadSTO0008874
+292,Staff,ICT Services Division,STO0012556,StaffSTO0012556
+293,Head,Payroll,STO0000237,HeadSTO0000237
+294,Staff,Payroll,STO0000237,StaffSTO0000237
+295,Head,Teaching and Research Laboratories,STO0008878,HeadSTO0008878
+296,Head,Strategic research programmes office,STO0013747,HeadSTO0013747
+297,Staff,Strategic research programmes office,STO0013747,StaffSTO0013747
+298,Head,Building management - Trento,STO0000241,HeadSTO0000241
+299,Staff,Building management - Trento,STO0000241,StaffSTO0000241
+300,Staff,International Mobility Staff - Cognitive Science Area,STO0008934,StaffSTO0008934
+301,Head,"Student Support Service: Psychology and Cognitive Science, Mind and Brain Centre",STO0008935,HeadSTO0008935
+302,Head,Education and Student Services - Cognitive Science Area,STO0008927,HeadSTO0008927
+303,Head,Teacher Training and Qualifications,STO0008919,HeadSTO0008919
+304,Staff,Education and Student Services - Cognitive Science Area,STO0008927,StaffSTO0008927
+305,Staff,Teacher Training and Qualifications,STO0008919,StaffSTO0008919
+306,Staff,Press office and External relations,STO0000217,StaffSTO0000217
+307,Students' representative,School of International Studies - Council,ORI0000271,Students'representativeORI0000271
+308,Member,Student Council,ORI0000004,MemberORI0000004
+309,Research collaborator,Department of Mathematics,STO0008628,ResearchcollaboratorSTO0008628
+310,Staff,Collegial Bodies and Programmatic Agreements,STO0000268,StaffSTO0000268
+311,Assistant professor,Department of Industrial Engineering,STO0008625,AssistantprofessorSTO0008625
+312,Staff,Sports office,STO0013544,StaffSTO0013544
+313,Staff,Architecture Division,STO0012899,StaffSTO0012899
+314,Assistant professor,Centre Agriculture Food Environment - C3A,STO0012250,AssistantprofessorSTO0012250
+315,Collaborator,Department of Industrial Engineering,STO0008625,CollaboratorSTO0008625
+316,Visiting professor,"Department of Cellular, Computational and Integrative Biology - CIBIO",STO0008662,VisitingprofessorSTO0008662
+317,Staff,Scientific Publications Office,STO0013558,StaffSTO0013558
+318,Member,Research Ethics Committee,ORI0000283,MemberORI0000283
+319,Alternate member,Data Protection Committee,ORI0000285,AlternatememberORI0000285
+320,Coordinator,Doctoral programme - Sociology and Social Research (Doctoral School of Social Sciences),STO0004802,CoordinatorSTO0004802
+321,Full professor,Doctoral programme - Sociology and Social Research (Doctoral School of Social Sciences),STO0004802,FullprofessorSTO0004802
+322,Students' representative,Sociology and Social Research - Department Council,ORI0000268,Students'representativeORI0000268
+323,Students' representative,Physics - Department Council,ORI0000265,Students'representativeORI0000265
+324,Staff,Electronics and Design Planning,STO0000335,StaffSTO0000335
+325,Staff,Purchasing Directorate,STO0000861,StaffSTO0000861
+326,Senior Professor,Department of Sociology and social research,STO0008630,SeniorProfessorSTO0008630
+327,Senior Professor,School of International Studies - SIS,STO0008633,SeniorProfessorSTO0008633
+328,Staff,CIBIO - Department Staff,STO0008915,StaffSTO0008915
+329,Teaching fellow,Department of Mathematics,STO0008628,TeachingfellowSTO0008628
+330,Staff,Technical support and Relations with schools,STO0008900,StaffSTO0008900
+331,Staff,BUD - University Digital Library,STO0012834,StaffSTO0012834
+332,Staff,Building management - Povo-Mesiano,STO0000242,StaffSTO0000242
+333,Guest,Centre for Medical Sciences - CISMED,STO0013533,GuestSTO0013533
+334,Rector's delegate for IT Services and Technologies,University of Trento,STO0000001,Rector'sdelegateforITServicesandTechnologiesSTO0000001
+335,Head,School of International Studies - Staff,STO0008917,HeadSTO0008917
+336,Staff,School of International Studies - Staff,STO0008917,StaffSTO0008917
+337,Head,Directorate of Research Services and Valorization,STO0013546,HeadSTO0013546
+338,Staff,Directorate of Research Services and Valorization,STO0013546,StaffSTO0013546
+339,Senior staff,Directorate of Research Services and Valorization,STO0013546,SeniorstaffSTO0013546
+340,Member,Joint Committee for the Right to Study and the Valorization of Merit,ORI0000141,MemberORI0000141
+341,Head,Education and Student Services Management,STO0000947,HeadSTO0000947
+342,Staff,Education and Student Services Management,STO0000947,StaffSTO0000947
+343,Senior staff,Education and Student Services Management,STO0000947,SeniorstaffSTO0000947
+344,Head,Administration Division,STO0000864,HeadSTO0000864
+345,Staff,Administration Division,STO0000864,StaffSTO0000864
+346,Head,"Application Services Division - Education, Research and Knowledge",STO0012555,HeadSTO0012555
+347,Staff,"Application Services Division - Education, Research and Knowledge",STO0012555,StaffSTO0012555
+348,Head,Human Resources and Organization,STO0000143,HeadSTO0000143
+349,Senior staff,Human Resources and Organization,STO0000143,SeniorstaffSTO0000143
+350,Director,"Department of Civil, Environmental and Mechanical Engineering",STO0008626,DirectorSTO0008626
+351,Staff,ICT Services Division -  Povo-Mesiano,STO0008876,StaffSTO0008876
+352,Head,"Application Services Division - Administration, Interoperability and Platforms",STO0012558,HeadSTO0012558
+353,Staff,"Application Services Division - Administration, Interoperability and Platforms",STO0012558,StaffSTO0012558
+354,Research collaborator,Department of Sociology and social research,STO0008630,ResearchcollaboratorSTO0008630
+355,Head,Press office and External relations,STO0000217,HeadSTO0000217
+356,Head,"Monitoring, Statistics and Policy Development Unit",STO0000267,HeadSTO0000267
+357,Staff,Office of the Directorate of Research Services and Valorization,STO0013626,StaffSTO0013626
+358,Head,BUD - University Digital Library,STO0012834,HeadSTO0012834
+359,Staff,Information services in support of academic activities,STO0012559,StaffSTO0012559
+360,Staff,Prevention and Protection Service,STO0000123,StaffSTO0000123
+361,Head,Social security,STO0000238,HeadSTO0000238
+362,Head,Youth projects office,STO0013745,HeadSTO0013745
+363,Staff,Youth projects office,STO0013745,StaffSTO0013745
+364,Head,International Relations,STO0012564,HeadSTO0012564
+365,Rector's delegate for the Collegio Bernardo Clesio,University of Trento,STO0000001,Rector'sdelegatefortheCollegioBernardoClesioSTO0000001
+366,Coordinator,"Doctoral programme вЂ“ Materials, Mechatronics and Systems Engineering",STO0009701,CoordinatorSTO0009701
+367,Full professor,"Doctoral programme вЂ“ Materials, Mechatronics and Systems Engineering",STO0009701,FullprofessorSTO0009701
+368,Staff,Support to the Evaluation Group,STO0012549,StaffSTO0012549
+369,Adjunct professor,Department of Information Engineering and Computer Science,STO0008629,AdjunctprofessorSTO0008629
+370,Deputy coordinator,Doctoral programme - Development Economics and Local Systems,STO0010819,DeputycoordinatorSTO0010819
+371,Associate professor,Doctoral programme - Development Economics and Local Systems,STO0010819,AssociateprofessorSTO0010819
+372,Staff,Branding and Graphic Design Office,STO0000946,StaffSTO0000946
+373,Head,"Service Desk, Service Catalog and  ICT Training",STO0011925,HeadSTO0011925
+374,Staff,"Service Desk, Service Catalog and  ICT Training",STO0011925,StaffSTO0011925
+375,Head,Education and Student Services - Science and Technology Area,STO0008925,HeadSTO0008925
+376,Staff,Education and Student Services - Science and Technology Area,STO0008925,StaffSTO0008925
+377,Teaching fellow,University of Trento,STO0000001,TeachingfellowSTO0000001
+378,Head,Email and Collaboration Services,STO0012561,HeadSTO0012561
+379,Staff,Email and Collaboration Services,STO0012561,StaffSTO0012561
+380,Head,ICT Services Division -  Povo-Mesiano,STO0008876,HeadSTO0008876
+381,Head,Physics - Department Staff,STO0008892,HeadSTO0008892
+382,Staff,Physics - Department Staff,STO0008892,StaffSTO0008892
+383,Deputy dean,School of International Studies - SIS,STO0008633,DeputydeanSTO0008633
+384,Rector's delegate for Legal Affairs,University of Trento,STO0000001,Rector'sdelegateforLegalAffairsSTO0000001
+385,Member,Sports council,ORI0000279,MemberORI0000279
+386,Member,Library Committee,ORI0000081,MemberORI0000081
+387,Staff,Employee Relations and Payroll Division - Technical and Administrative Staff,STO0000879,StaffSTO0000879
+388,Head,Administration and Accounting Office - Estates Directorate,STO0000901,HeadSTO0000901
+389,Staff,Science and Technology Area - PhD Office,STO0008926,StaffSTO0008926
+390,Staff,Middleware development,STO0012563,StaffSTO0012563
+391,Associate professor,School of International Studies - SIS,STO0008633,AssociateprofessorSTO0008633
+392,Vice-Rector for Equity and Diversity Policies,University of Trento,STO0000001,Vice-RectorforEquityandDiversityPoliciesSTO0000001
+393,Students' representative,CIBIO - Council,ORI0000272,Students'representativeORI0000272
+394,Staff,Funded research staff - Rovereto,STO0008883,StaffSTO0008883
+395,Research grant holder,"Department of Cellular, Computational and Integrative Biology - CIBIO",STO0008662,ResearchgrantholderSTO0008662
+396,External staff,CeRiN - Center for Neurocognitive Rehabilitation,STO0001821,ExternalstaffSTO0001821
+397,Staff,Sociology and Social Research - Department Staff,STO0008905,StaffSTO0008905
+398,Head,National/International Interlibrary Loan Office,STO0000256,HeadSTO0000256
+399,Staff,National/International Interlibrary Loan Office,STO0000256,StaffSTO0000256
+400,Collaborator,Central Management,STO0000012,CollaboratorSTO0000012
+401,Staff,CeRiN Administrative Services,STO0001741,StaffSTO0001741
+402,Staff,Job Guidance,STO0008936,StaffSTO0008936
+403,Director,Centre Agriculture Food Environment - C3A,STO0012250,DirectorSTO0012250
+404,Full professor,Centre Agriculture Food Environment - C3A,STO0012250,FullprofessorSTO0012250
+405,Staff,Technical and Administrative Staff Administration,STO0000883,StaffSTO0000883
+406,Staff,Construction Projects and Contracts Office,STO0013625,StaffSTO0013625
+407,Adjunct professor,Faculty of Law,STO0008624,AdjunctprofessorSTO0008624
+408,Research grant holder,Department of Industrial Engineering,STO0008625,ResearchgrantholderSTO0008625
+409,Head,Research Staff Recruitment Office,STO0013560,HeadSTO0013560
+410,Staff,Research Staff Recruitment Office,STO0013560,StaffSTO0013560
+411,Staff,Events Office,STO0012553,StaffSTO0012553
+412,Visiting professor,Department of Industrial Engineering,STO0008625,VisitingprofessorSTO0008625
+413,Teaching fellow,Centre for Medical Sciences - CISMED,STO0013533,TeachingfellowSTO0013533
+414,Head,Directorate of Communication and External Relations,STO0013038,HeadSTO0013038
+415,Senior staff,Directorate of Communication and External Relations,STO0013038,SeniorstaffSTO0013038
+416,Staff,Centre for Integrative Biology - Laboratory Technicians,STO0008916,StaffSTO0008916
+417,Staff,Purchasing support,STO0013744,StaffSTO0013744
+418,Guest,Directorate of Communication and External Relations,STO0013038,GuestSTO0013038
+419,Teaching fellow,University Language Centre,STO0008940,TeachingfellowSTO0008940
+420,Head,"Student Support Service: Economics, Law and International Studies",STO0008929,HeadSTO0008929
+421,PhD student,,STO0013847,PhDstudentSTO0013847
+422,Coordinator,Doctoral programme вЂ“ Biomolecular Sciences,STO0002101,CoordinatorSTO0002101
+423,Full professor,Doctoral programme вЂ“ Biomolecular Sciences,STO0002101,FullprofessorSTO0002101
+424,PhD student,Doctoral programme - Development Economics and Local Systems,STO0010819,PhDstudentSTO0010819
+425,Head,Administration Information Services,STO0013555,HeadSTO0013555
+426,Alternate member,Board of Auditors,ORI0000006,AlternatememberORI0000006
+427,Research collaborator,Department of Psychology and Cognitive Science,STO0008631,ResearchcollaboratorSTO0008631
+428,Research collaborator,Center for Mind/Brain Sciences - CIMeC,STO0008663,ResearchcollaboratorSTO0008663
+429,Head,Student Support Service: Humanities and Social Sciences,STO0008930,HeadSTO0008930
+430,Guest,Centre Agriculture Food Environment - C3A,STO0012250,GuestSTO0012250
+431,Staff,Technicians - Materials and Structures Testing Laboratory,STO0012808,StaffSTO0012808
+432,Coordinator,Doctoral programme - Development Economics and Local Systems,STO0010819,CoordinatorSTO0010819
+433,Guest,Doctoral programme - Development Economics and Local Systems,STO0010819,GuestSTO0010819
+434,President,Student Council,ORI0000004,PresidentORI0000004
+435,Member,Board of Discipline,ORI0000278,MemberORI0000278
+436,Guest,Purchasing Directorate,STO0000861,GuestSTO0000861
+437,Research grant holder,Center for Mind/Brain Sciences - CIMeC,STO0008663,ResearchgrantholderSTO0008663
+438,Staff,Biotechnology Laboratories,STO0013709,StaffSTO0013709
+439,Students' representative,Psychology and Cognitive Science - Department Council,ORI0000269,Students'representativeORI0000269
+440,Teaching fellow,Department of Industrial Engineering,STO0008625,TeachingfellowSTO0008625
+441,Collaborator,Training and Continuing Professional Development,STO0000235,CollaboratorSTO0000235
+442,Director,Center for Mind/Brain Sciences - CIMeC,STO0008663,DirectorSTO0008663
+443,Head,Rovereto University Library (BUR) room,STO0012838,HeadSTO0012838
+444,Head,"Science Libraries (Science, Engineering, Cognitive Science)",STO0012837,HeadSTO0012837
+445,Staff,Rovereto University Library (BUR) room,STO0012838,StaffSTO0012838
+446,Staff,"Science Libraries (Science, Engineering, Cognitive Science)",STO0012837,StaffSTO0012837
+447,Adjunct professor,"Department of Civil, Environmental and Mechanical Engineering",STO0008626,AdjunctprofessorSTO0008626
+448,Staff,Technicians - Hydraulics and Soil Defence Laboratory,STO0012809,StaffSTO0012809
+449,Visiting researcher,Department of Physics,STO0008627,VisitingresearcherSTO0008627
+450,Rector's delegate for Orientation to Graduate Education,University of Trento,STO0000001,Rector'sdelegateforOrientationtoGraduateEducationSTO0000001
+451,Senior Professor,Department of Economics and Management,STO0008621,SeniorProfessorSTO0008621
+452,Head,Academic and Teaching Staff Office,STO0000868,HeadSTO0000868
+453,President,Evaluation Group,ORI0000005,PresidentORI0000005
+454,Students' representative,Mathematics - Department Council,ORI0000266,Students'representativeORI0000266
+455,Students' representative,Joint Committee for the Right to Study and the Valorization of Merit,ORI0000141,Students'representativeORI0000141
+456,Collaborator,Purchasing and Accounting - Trento,STO0008891,CollaboratorSTO0008891
+457,Visiting professor,Department of Economics and Management,STO0008621,VisitingprofessorSTO0008621
+458,Research fellowship holder,School of International Studies - SIS,STO0008633,ResearchfellowshipholderSTO0008633
+459,Staff,Communications Staff - Povo,STO0008864,StaffSTO0008864
+460,Students' representative,Information Engineering and Computer Science - Department Council,ORI0000267,Students'representativeORI0000267
+461,Head,Web and Social Media Office,STO0012554,HeadSTO0012554
+462,Deputy coordinator,,STO0013847,DeputycoordinatorSTO0013847
+463,Guest,,STO0013847,GuestSTO0013847
+464,Coordinator,,STO0013847,CoordinatorSTO0013847
+465,Full professor,,STO0013847,FullprofessorSTO0013847
+466,Students' representative,"Civil, Environmental and Mechanical Engineering - Department Council",ORI0000264,Students'representativeORI0000264
+467,Emeritus professor,Department of Humanities,STO0008632,EmeritusprofessorSTO0008632
+468,Staff,BUC - Central University Library,STO0012835,StaffSTO0012835
+469,Staff,Department of Humanities,STO0008632,StaffSTO0008632
+470,Emeritus professor,Department of Psychology and Cognitive Science,STO0008631,EmeritusprofessorSTO0008631
+471,Deputy dean,Department of Humanities,STO0008632,DeputydeanSTO0008632
+472,Head,Diversity Management,STO0012548,HeadSTO0012548
+473,Staff,Diversity Management,STO0012548,StaffSTO0012548
+474,Rector's delegate for Vocational and Continuing Training,University of Trento,STO0000001,Rector'sdelegateforVocationalandContinuingTrainingSTO0000001
+475,Adjunct professor,Department of Economics and Management,STO0008621,AdjunctprofessorSTO0008621
+476,Executive assistant to the Head of the Direction,Office of the Directorate of IT and Library Services,STO0000871,ExecutiveassistanttotheHeadoftheDirectionSTO0000871
+477,Staff,Office of the Directorate of IT and Library Services,STO0000871,StaffSTO0000871
+478,Deputy coordinator,Doctoral Program in Industrial Innovation (M.D. 45/2013),STO0012998,DeputycoordinatorSTO0012998
+479,Guest,Doctoral Program in Industrial Innovation (M.D. 45/2013),STO0012998,GuestSTO0012998
+480,Vice-Rector for Teaching and Learning,University of Trento,STO0000001,Vice-RectorforTeachingandLearningSTO0000001
+481,Deputy dean,Department of Industrial Engineering,STO0008625,DeputydeanSTO0008625
+482,Visiting professor,Department of Information Engineering and Computer Science,STO0008629,VisitingprofessorSTO0008629
+483,Staff,"Network, TLC and ICT Security",STO0000885,StaffSTO0000885
+484,Deputy dean,Department of Psychology and Cognitive Science,STO0008631,DeputydeanSTO0008631
+485,Rector's delegate for the Animal Welfare Committee,University of Trento,STO0000001,Rector'sdelegatefortheAnimalWelfareCommitteeSTO0000001
+486,Director,Department of Mathematics,STO0008628,DirectorSTO0008628
+487,President,Committee for Recruitment and Career Advancement,ORI0000161,PresidentORI0000161
+488,Implementation of the Development Plan,University of Trento,STO0000001,ImplementationoftheDevelopmentPlanSTO0000001
+489,Head,Faculty of Law - Department Staff,STO0008909,HeadSTO0008909
+490,Research grant holder,School of International Studies - SIS,STO0008633,ResearchgrantholderSTO0008633
+491,Students' representative to the Academic Senate,Academic Senate,ORI0000002,Students'representativetotheAcademicSenateORI0000002
+492,Member,Committee for the Implementation of the Code of Ethics,ORI0000274,MemberORI0000274
+493,Sport with Special Mandate for the 2026 Winter Olympics,University of Trento,STO0000001,SportwithSpecialMandateforthe2026WinterOlympicsSTO0000001
+494,President,Sports council,ORI0000279,PresidentORI0000279
+495,Head,Student Activities Office,STO0000958,HeadSTO0000958
+496,Head,Psychology and Cognitive science - Department Staff,STO0008910,HeadSTO0008910
+497,Head,Partnerships and Corruption Prevention,STO0012552,HeadSTO0012552
+498,Staff,Partnerships and Corruption Prevention,STO0012552,StaffSTO0012552
+499,Rector's delegate for Alumni,University of Trento,STO0000001,Rector'sdelegateforAlumniSTO0000001
+500,Head,Physical Science Laboratories,STO0013708,HeadSTO0013708
+501,Head,Technical Support and Relations with the Educational System,STO0008865,HeadSTO0008865
+502,Staff,Technical Support and Relations with the Educational System,STO0008865,StaffSTO0008865
+503,Staff,Engineering Division,STO0012900,StaffSTO0012900
+504,Deputy dean,Department of Information Engineering and Computer Science,STO0008629,DeputydeanSTO0008629
+505,Staff,"Infrastructure, Collaboration and ICT Security Services Division",STO0012557,StaffSTO0012557
+506,Deputy coordinator,Doctoral programme вЂ“ International studies,STO0000462,DeputycoordinatorSTO0000462
+507,Associate professor,Doctoral programme вЂ“ International studies,STO0000462,AssociateprofessorSTO0000462
+508,Head,ICT Services Division -  Rovereto,STO0008877,HeadSTO0008877
+509,Staff,ICT Services Division -  Rovereto,STO0008877,StaffSTO0008877
+510,Head,Research Outputs Office,STO0001641,HeadSTO0001641
+511,Guest,Doctoral School of Social Sciences,STO0000371,GuestSTO0000371
+512,Deputy coordinator,Doctoral Program in Agrifood and Environmental Sciences (D.M.45/2013),STO0012999,DeputycoordinatorSTO0012999
+513,Full professor,Doctoral Program in Agrifood and Environmental Sciences (D.M.45/2013),STO0012999,FullprofessorSTO0012999
+514,Staff,Financial Management,STO0000273,StaffSTO0000273
+515,Head,Technicians - Hydraulics and Soil Defence Laboratory,STO0012809,HeadSTO0012809
+516,Guest,Faculty of Law - Department Staff,STO0008909,GuestSTO0008909
+517,Head,"Systems Management, HPC and Data Center",STO0000399,HeadSTO0000399
+518,Staff,"Systems Management, HPC and Data Center",STO0000399,StaffSTO0000399
+519,Deputy coordinator,Doctoral programme вЂ“ Biomolecular Sciences,STO0002101,DeputycoordinatorSTO0002101
+520,Associate professor,Doctoral programme вЂ“ Biomolecular Sciences,STO0002101,AssociateprofessorSTO0002101
+521,Staff,Emerging solutions,STO0012560,StaffSTO0012560
+522,Head,Directorate of IT and Library Services,STO0000870,HeadSTO0000870
+523,Chief digital transformation officer,University of Trento,STO0000001,ChiefdigitaltransformationofficerSTO0000001
+524,Senior staff,Directorate of IT and Library Services,STO0000870,SeniorstaffSTO0000870
+525,Teaching fellow,Center for Mind/Brain Sciences - CIMeC,STO0008663,TeachingfellowSTO0008663
+526,Head,Biotechnology Laboratories,STO0013709,HeadSTO0013709
+527,Head,Architecture Division,STO0012899,HeadSTO0012899
+528,Data Protection Officer,University of Trento,STO0000001,DataProtectionOfficerSTO0000001
+529,Staff,Buildings Managementand Maintenance Division,STO0000902,StaffSTO0000902
+530,Staff,Induction and Additional Services,STO0000869,StaffSTO0000869
+531,Collaborator,Department of Sociology and social research,STO0008630,CollaboratorSTO0008630
+532,Deputy coordinator,Doctoral programme вЂ“ Physics,STO0000435,DeputycoordinatorSTO0000435
+533,Associate professor,Doctoral programme вЂ“ Physics,STO0000435,AssociateprofessorSTO0000435
+534,Research collaborator,Centre Agriculture Food Environment - C3A,STO0012250,ResearchcollaboratorSTO0012250
+535,Research grant holder,Department of Economics and Management,STO0008621,ResearchgrantholderSTO0008621
+536,Deputy coordinator,Doctoral programme вЂ“ Mathematics,STO0000461,DeputycoordinatorSTO0000461
+537,Associate professor,Doctoral programme вЂ“ Mathematics,STO0000461,AssociateprofessorSTO0000461
+538,Director,"Department of Cellular, Computational and Integrative Biology - CIBIO",STO0008662,DirectorSTO0008662
+539,Rector's delegate for Disability Support,University of Trento,STO0000001,Rector'sdelegateforDisabilitySupportSTO0000001
+540,Staff,Education and student services - Medical sciences area,STO0013563,StaffSTO0013563
+541,Executive assistant to the Head of the Direction,General-Secretary Education and Student Services,STO0000948,ExecutiveassistanttotheHeadoftheDirectionSTO0000948
+542,Head,Building management - Rovereto and Mattarello,STO0000905,HeadSTO0000905
+543,Staff,Building management - Rovereto and Mattarello,STO0000905,StaffSTO0000905
+544,Head,"Management of national, EU and international research programmes office",STO0013561,HeadSTO0013561
+545,Head,Research Management Division,STO0013559,HeadSTO0013559
+546,Staff,Research Management Division,STO0013559,StaffSTO0013559
+547,Staff,Storage,STO0000355,StaffSTO0000355
+548,Head,Recruitment and Relations with Trade Unions,STO0012831,HeadSTO0012831
+549,Staff,Recruitment and Relations with Trade Unions,STO0012831,StaffSTO0012831
+550,Head,Research ethics and integrity office,STO0013548,HeadSTO0013548
+551,Head,Research Support Office,STO0013551,HeadSTO0013551
+552,Head,Research Support Division,STO0013550,HeadSTO0013550
+553,Staff,Research ethics and integrity office,STO0013548,StaffSTO0013548
+554,Staff,Research Support Office,STO0013551,StaffSTO0013551
+555,Staff,Research Support Division,STO0013550,StaffSTO0013550
+556,Staff,Staff Evaluation and Organization,STO0000887,StaffSTO0000887
+557,Head,Cataloguing and Acquisitions Office,STO0012833,HeadSTO0012833
+558,President,Board of Directors,ORI0000003,PresidentORI0000003
+559,President,Research Ethics Committee,ORI0000283,PresidentORI0000283
+560,Head,Digital services for research office,STO0013557,HeadSTO0013557
+561,Head,Dissemination and Evaluation of Research Outputs Division,STO0013556,HeadSTO0013556
+562,Staff,Digital services for research office,STO0013557,StaffSTO0013557
+563,Staff,Dissemination and Evaluation of Research Outputs Division,STO0013556,StaffSTO0013556
+564,Adjunct professor,Department of Humanities,STO0008632,AdjunctprofessorSTO0008632
+565,Head,Middleware development,STO0012563,HeadSTO0012563
+566,Deputy coordinator,Doctoral programme - Cognitive and Brain Sciences,STO0000432,DeputycoordinatorSTO0000432
+567,Head,Student Support Service - Science and technology area - Mesiano,STO0013746,HeadSTO0013746
+568,Head,Storage,STO0000355,HeadSTO0000355
+569,Head,Electronics and Design Planning,STO0000335,HeadSTO0000335
+570,Senior researcher,Department of Physics,STO0008627,SeniorresearcherSTO0008627
+571,Staff,Sociology and Social Research - Technical Support,STO0008906,StaffSTO0008906
+572,Adjunct professor,Department of Mathematics,STO0008628,AdjunctprofessorSTO0008628
+573,Student representative in the board of directors of Opera Universitaria,University of Trento,STO0000001,StudentrepresentativeintheboardofdirectorsofOperaUniversitariaSTO0000001
+574,Deputy coordinator,Doctoral programme вЂ“ Information and Communication Technology,STO0000451,DeputycoordinatorSTO0000451
+575,Associate professor,Doctoral programme вЂ“ Information and Communication Technology,STO0000451,AssociateprofessorSTO0000451
+576,Deputy coordinator,Doctoral programme - Economics and management (Doctoral School of Social Sciences),STO0004803,DeputycoordinatorSTO0004803
+577,Associate professor,Doctoral programme - Economics and management (Doctoral School of Social Sciences),STO0004803,AssociateprofessorSTO0004803
+578,Head,Technicians - Materials and Structures Testing Laboratory,STO0012808,HeadSTO0012808
+579,Head,Prevention and Protection Service,STO0000123,HeadSTO0000123
+580,President,Committee for the Implementation of the Code of Ethics,ORI0000274,PresidentORI0000274
+581,Staff,Office of the Directorate of Communication and External Relations,STO0013542,StaffSTO0013542
+582,Head,Legal Office,STO0000843,HeadSTO0000843
+583,Staff,Legal Office,STO0000843,StaffSTO0000843
+584,Head,Events Office,STO0012553,HeadSTO0012553
+585,Head,Alumni office,STO0013543,HeadSTO0013543
+586,Director General,University of Trento,STO0000001,DirectorGeneralSTO0000001
+587,Head,Central Management,STO0000012,HeadSTO0000012
+588,Head,"Legal services, Partnerships, Corruption Prevention",STO0012278,HeadSTO0012278
+589,Head,Support to Evaluation and Quality Assurance,STO0012898,HeadSTO0012898
+590,Anti-corruption Officer,University of Trento,STO0000001,Anti-corruptionOfficerSTO0000001
+591,Senior staff,Central Management,STO0000012,SeniorstaffSTO0000012
+592,Senior staff,"Legal services, Partnerships, Corruption Prevention",STO0012278,SeniorstaffSTO0012278
+593,Senior staff,Support to Evaluation and Quality Assurance,STO0012898,SeniorstaffSTO0012898
+594,Head,Financial Management,STO0000273,HeadSTO0000273
+595,Head,Mathematics - Department Staff,STO0008894,HeadSTO0008894
+596,Head,CIMeC - Technical and IT Support,STO0008913,HeadSTO0008913
+597,Head,Building management - Povo-Mesiano,STO0000242,HeadSTO0000242
+598,Senior Professor,Center for Mind/Brain Sciences - CIMeC,STO0008663,SeniorProfessorSTO0008663
+599,Staff,Faculty of Law,STO0008624,StaffSTO0008624
+600,Rector's delegate for Open Access and Copyright Policies,University of Trento,STO0000001,Rector'sdelegateforOpenAccessandCopyrightPoliciesSTO0000001
+601,Director,Centre for Medical Sciences - CISMED,STO0013533,DirectorSTO0013533
+602,Staff,ICT Services for Staff,STO0013554,StaffSTO0013554
+603,Head,ICT Services for Staff,STO0013554,HeadSTO0013554
+604,Coordinator,"Doctoral programme вЂ“ Civil, environmental and mechanical engineering",STO0009561,CoordinatorSTO0009561
+605,Full professor,"Doctoral programme вЂ“ Civil, environmental and mechanical engineering",STO0009561,FullprofessorSTO0009561
+606,Head,Emerging solutions,STO0012560,HeadSTO0012560
+607,Deputy dean,"Department of Civil, Environmental and Mechanical Engineering",STO0008626,DeputydeanSTO0008626
+608,Staff,Mesiano University Library (BUM) room,STO0000292,StaffSTO0000292
+609,Head,Buildings Managementand Maintenance Division,STO0000902,HeadSTO0000902
+610,Coordinator,Doctoral programme вЂ“ Information and Communication Technology,STO0000451,CoordinatorSTO0000451
+611,Students' representative,Center for Mind/Brain Sciences-CIMeC - Council,ORI0000273,Students'representativeORI0000273
+612,Head,Staff Evaluation and Organization,STO0000887,HeadSTO0000887
+613,Head,Employee Relations Division - Academic and Teaching Staff,STO0000867,HeadSTO0000867
+614,Staff,Employee Relations Division - Academic and Teaching Staff,STO0000867,StaffSTO0000867
+615,Student ombudsman,University of Trento,STO0000001,StudentombudsmanSTO0000001
+616,Director,School of International Studies - SIS,STO0008633,DirectorSTO0008633
+617,Staff,Education and Student Services - Humanities and Social Sciences Area,STO0008923,StaffSTO0008923
+618,Coordinator,Doctoral Program in Industrial Innovation (M.D. 45/2013),STO0012998,CoordinatorSTO0012998
+619,Full professor,Doctoral Program in Industrial Innovation (M.D. 45/2013),STO0012998,FullprofessorSTO0012998
+620,Staff,Privacy Compliance,STO0013549,StaffSTO0013549
+621,Head,Sociology and Social Research - Department Staff,STO0008905,HeadSTO0008905
+622,Head,Procurement Office,STO0000413,HeadSTO0000413
+623,Director,Department of Humanities,STO0008632,DirectorSTO0008632
+624,Rector's Delegate for musical activities,University of Trento,STO0000001,Rector'sDelegateformusicalactivitiesSTO0000001
+625,Head,Privacy Compliance,STO0013549,HeadSTO0013549
+626,Rector's delegate for Science Communication and Orientation for High-School Students,University of Trento,STO0000001,Rector'sdelegateforScienceCommunicationandOrientationforHigh-SchoolStudentsSTO0000001
+627,Head,Purchasing and Accounting - Trento,STO0008891,HeadSTO0008891
+628,Head,Contracts and Procurement Division,STO0000903,HeadSTO0000903
+629,Staff,Contracts and Procurement Division,STO0000903,StaffSTO0000903
+630,Head,Relations with employers and local organizations,STO0013040,HeadSTO0013040
+631,Head,Job Guidance,STO0008936,HeadSTO0008936
+632,Staff,Relations with employers and local organizations,STO0013040,StaffSTO0013040
+633,Rector's delegate for Doctoral Programmes,University of Trento,STO0000001,Rector'sdelegateforDoctoralProgrammesSTO0000001
+634,Head,Branding and Graphic Design Office,STO0000946,HeadSTO0000946
+635,Students' representative,"Consiglio del Centro Agricoltura, Alimenti, Ambiente - C3A",ORI0000282,Students'representativeORI0000282
+636,Rector's delegate for Language Education,University of Trento,STO0000001,Rector'sdelegateforLanguageEducationSTO0000001
+637,President,The University Animal Welfare Committee (OPBA),ORI0000275,PresidentORI0000275
+638,Coordinator,Doctoral programme вЂ“ Physics,STO0000435,CoordinatorSTO0000435
+639,Head,Humanities and Cognitive Science Area - PhD Office,STO0008924,HeadSTO0008924
+640,Head,Sports office,STO0013544,HeadSTO0013544
+641,Head,Special Projects,STO0013041,HeadSTO0013041
+642,Head,Science and Technology Area - PhD Office,STO0008926,HeadSTO0008926
+643,Head,Education and Student Services - Science and technology area,STO0008932,HeadSTO0008932
+644,Staff,Administration and Accounting Services - Rovereto,STO0008887,StaffSTO0008887
+645,Head,HR Development and Organization,STO0000886,HeadSTO0000886
+646,Staff,HR Development and Organization,STO0000886,StaffSTO0000886
+647,Head,Education and Student Services coordination,STO0012565,HeadSTO0012565
+648,Staff,Education and Student Services coordination,STO0012565,StaffSTO0012565
+649,Head,"Network, TLC and ICT Security",STO0000885,HeadSTO0000885
+650,Head,"Language Centre, Test Center and Digital Teaching Resources",STO0008921,HeadSTO0008921
+651,Head,Administration and Accounting Services - Rovereto,STO0008887,HeadSTO0008887
+652,Head,Planning Division,STO0000863,HeadSTO0000863
+653,Head,Director General support and document drafting,STO0013730,HeadSTO0013730
+654,Staff,Director General support and document drafting,STO0013730,StaffSTO0013730
+655,Staff,Communications Staff - Rovereto,STO0008863,StaffSTO0008863
+656,Head,CIBIO - Department Staff,STO0008915,HeadSTO0008915
+657,Head,Mesiano University Library (BUM) room,STO0000292,HeadSTO0000292
+658,Head,Information Engineering and Computer Science - Department Staff,STO0008895,HeadSTO0008895
+659,Head,"Civil, Environmental and Mechanical Engineering - Department Staff",STO0008901,HeadSTO0008901
+660,Deputy coordinator,"Doctoral programme - Culture d'Europa. Ambiente, spazi, storie, arti, idee",STO0010808,DeputycoordinatorSTO0010808
+661,Associate professor,"Doctoral programme - Culture d'Europa. Ambiente, spazi, storie, arti, idee",STO0010808,AssociateprofessorSTO0010808
+662,Staff,Funded research staff - Trento,STO0008881,StaffSTO0008881
+663,Staff,Economics and Management - Laboratory Technicians,STO0008908,StaffSTO0008908
+664,Head,"Infrastructure, Collaboration and ICT Security Services Division",STO0012557,HeadSTO0012557
+665,Head,Privacy regulation,STO0013545,HeadSTO0013545
+666,Staff,Privacy regulation,STO0013545,StaffSTO0013545
+667,Head,CisMed staff,STO0013669,HeadSTO0013669
+668,Staff,CisMed staff,STO0013669,StaffSTO0013669
+669,Head,Education and Student Services - Humanities and Social Sciences Area,STO0008923,HeadSTO0008923
+670,President,Board of Discipline,ORI0000278,PresidentORI0000278
+671,Head,Humanities - Department Staff,STO0008903,HeadSTO0008903
+672,Head,Economics and Management - Department Staff,STO0008907,HeadSTO0008907
+673,Adjunct professor,Department of Sociology and social research,STO0008630,AdjunctprofessorSTO0008630
+674,Head,Technical and Administrative Staff Administration,STO0000883,HeadSTO0000883
+675,Head,"Events, Branding and Graphic Design Division",STO0000943,HeadSTO0000943
+676,Staff,"Events, Branding and Graphic Design Division",STO0000943,StaffSTO0000943
+677,Director,Department of Economics and Management,STO0008621,DirectorSTO0008621
+678,Staff,CeRiN - Center for Neurocognitive Rehabilitation,STO0001821,StaffSTO0001821
+679,Deputy coordinator,Doctoral programme (D.M.45/2013) вЂ“ Cognitive Science,STO0012756,DeputycoordinatorSTO0012756
+680,Associate professor,Doctoral programme (D.M.45/2013) вЂ“ Cognitive Science,STO0012756,AssociateprofessorSTO0012756
+681,Head,Environmental and Safety Services Division,STO0013074,HeadSTO0013074
+682,Staff,Environmental and Safety Services Division,STO0013074,StaffSTO0013074
+683,Deputy coordinator,Doctoral programme - Sociology and Social Research (Doctoral School of Social Sciences),STO0004802,DeputycoordinatorSTO0004802
+684,Associate professor,Doctoral programme - Sociology and Social Research (Doctoral School of Social Sciences),STO0004802,AssociateprofessorSTO0004802
+685,Coordinator,Doctoral programme (D.M.45/2013) вЂ“ Cognitive Science,STO0012756,CoordinatorSTO0012756
+686,Full professor,Doctoral programme (D.M.45/2013) вЂ“ Cognitive Science,STO0012756,FullprofessorSTO0012756
+687,Head,Information services in support of academic activities,STO0012559,HeadSTO0012559
+688,Head,Laboratory staff,STO0013711,HeadSTO0013711
+689,Head,Division for the Valorization and Impact of Research,STO0013553,HeadSTO0013553
+690,Guest,Human Resources and Organization,STO0000143,GuestSTO0000143
+691,Collaborator,Prevention and Protection Service,STO0000123,CollaboratorSTO0000123
+692,Research collaborator,Department of Physics,STO0008627,ResearchcollaboratorSTO0008627
+693,Visiting professor,Department of Sociology and social research,STO0008630,VisitingprofessorSTO0008630
+694,Head,BUC Rooms and Training,STO0012836,HeadSTO0012836
+695,Head,BUC - Central University Library,STO0012835,HeadSTO0012835
+696,Head,Library - Acquisitions and Contracts Division,STO0012832,HeadSTO0012832
+697,Staff,Directorate of IT and Library Services,STO0000870,StaffSTO0000870
+698,Rector's delegate for Academic and International Solidarity,University of Trento,STO0000001,Rector'sdelegateforAcademicandInternationalSolidaritySTO0000001
+699,Rector's delegate for Development Cooperation,University of Trento,STO0000001,Rector'sdelegateforDevelopmentCooperationSTO0000001
+700,Staff,Human Resources and Organization,STO0000143,StaffSTO0000143
+701,Head,Induction and Additional Services,STO0000869,HeadSTO0000869
+702,Director,Department of Sociology and social research,STO0008630,DirectorSTO0008630
+703,Coordinator,"PhD programme (Ministerial Decree 45/2013) - Sustainability: Economics, Environment, Management and Society",STO0013318,CoordinatorSTO0013318
+704,Head,Engineering Division,STO0012900,HeadSTO0012900
+705,Head,Collegial Bodies and Programmatic Agreements,STO0000268,HeadSTO0000268
+706,Head,Model Organism Facility staff,STO0013712,HeadSTO0013712
+707,Staff,Model Organism Facility staff,STO0013712,StaffSTO0013712
+708,Staff,C3A staff,STO0013547,StaffSTO0013547
+709,Senior Professor,"Department of Civil, Environmental and Mechanical Engineering",STO0008626,SeniorProfessorSTO0008626
+710,Director,Department of Industrial Engineering,STO0008625,DirectorSTO0008625
+711,Head,Administration and Accounting Services - Povo,STO0008885,HeadSTO0008885
+712,Emeritus professor,"Department of Civil, Environmental and Mechanical Engineering",STO0008626,EmeritusprofessorSTO0008626
+713,Deputy coordinator,"Doctoral programme вЂ“ Materials, Mechatronics and Systems Engineering",STO0009701,DeputycoordinatorSTO0009701
+714,Associate professor,"Doctoral programme вЂ“ Materials, Mechatronics and Systems Engineering",STO0009701,AssociateprofessorSTO0009701
+715,Rector's delegate for Support to the Business Sector,University of Trento,STO0000001,Rector'sdelegateforSupporttotheBusinessSectorSTO0000001
+716,President,"Committee for Equal Opportunities, Well-being at Work and Against Discriminations (CUG)",ORI0000241,PresidentORI0000241
+717,Coordinator,"Doctoral programme - Culture d'Europa. Ambiente, spazi, storie, arti, idee",STO0010808,CoordinatorSTO0010808
+718,Full professor,"Doctoral programme - Culture d'Europa. Ambiente, spazi, storie, arti, idee",STO0010808,FullprofessorSTO0010808
+719,Rector's delegate for Press and Communication,University of Trento,STO0000001,Rector'sdelegateforPressandCommunicationSTO0000001
+720,Vice-Rector for Organizational Well-Being and Employee Relations,University of Trento,STO0000001,Vice-RectorforOrganizationalWell-BeingandEmployeeRelationsSTO0000001
+721,President,Library Committee,ORI0000081,PresidentORI0000081
+722,President,Quality Committee,ORI0000181,PresidentORI0000181
+723,Deputy coordinator,Doctoral programme вЂ“ Comparative and European legal studies,STO0000434,DeputycoordinatorSTO0000434
+724,Director,Department of Information Engineering and Computer Science,STO0008629,DirectorSTO0008629
+725,Rector's delegate for Safety in the workplace,University of Trento,STO0000001,Rector'sdelegateforSafetyintheworkplaceSTO0000001
+726,Deputy dean,Department of Mathematics,STO0008628,DeputydeanSTO0008628
+727,Deputy dean,Department of Physics,STO0008627,DeputydeanSTO0008627
+728,Head,Technical Services Coordination - Science Departments,STO0000366,HeadSTO0000366
+729,Coordinator,Doctoral programme - Economics and management (Doctoral School of Social Sciences),STO0004803,CoordinatorSTO0004803
+730,Full professor,Doctoral programme - Economics and management (Doctoral School of Social Sciences),STO0004803,FullprofessorSTO0004803
+731,Staff,Support to the Centro Studi Martino Martini,STO0012231,StaffSTO0012231
+732,Coordinator,Doctoral programme вЂ“ Mathematics,STO0000461,CoordinatorSTO0000461
+733,Full professor,Doctoral programme вЂ“ Mathematics,STO0000461,FullprofessorSTO0000461
+734,Head,Scientific Publications Office,STO0013558,HeadSTO0013558
+735,Head,Estates Directorate,STO0000266,HeadSTO0000266
+736,Head,Construction Projects and Contracts Office,STO0013625,HeadSTO0013625
+737,Head,Property and Real Estate Division,STO0000160,HeadSTO0000160
+738,Senior staff,Estates Directorate,STO0000266,SeniorstaffSTO0000266
+739,Senior staff,Construction Projects and Contracts Office,STO0013625,SeniorstaffSTO0013625
+740,Senior staff,Property and Real Estate Division,STO0000160,SeniorstaffSTO0000160
+741,Coordinator,Doctoral programme - Le Forme del Testo,STO0010809,CoordinatorSTO0010809
+742,Coordinator,Doctoral programme (D.M.45/2013) - Forms of cultural exchange,STO0013015,CoordinatorSTO0013015
+743,Full professor,Doctoral programme - Le Forme del Testo,STO0010809,FullprofessorSTO0010809
+744,Full professor,Doctoral programme (D.M.45/2013) - Forms of cultural exchange,STO0013015,FullprofessorSTO0013015
+745,Head,Center for Mind/Brain Sciences - Staff,STO0008912,HeadSTO0008912
+746,Head,E-Learning,STO0000962,HeadSTO0000962
+747,Head,Training and Continuing Professional Development,STO0000235,HeadSTO0000235
+748,Head,C3A staff,STO0013547,HeadSTO0013547
+749,Deputy dean,Centre for Medical Sciences - CISMED,STO0013533,DeputydeanSTO0013533
+750,Head,Core Facilities,STO0013710,HeadSTO0013710
+751,President,Board of Auditors,ORI0000006,PresidentORI0000006
+752,Collaborator,School of International Studies - SIS,STO0008633,CollaboratorSTO0008633
+753,Head,Admissions and Inclusion Office,STO0012566,HeadSTO0012566
+754,Head,Employee Relations and Payroll Division - Technical and Administrative Staff,STO0000879,HeadSTO0000879
+755,Collaborator,International Relations,STO0012564,CollaboratorSTO0012564
+756,Visiting professor,"Department of Civil, Environmental and Mechanical Engineering",STO0008626,VisitingprofessorSTO0008626
+757,Guest,Support to the Centro Studi Martino Martini,STO0012231,GuestSTO0012231
