@@ -25,6 +25,18 @@
 @prefix dash:  <http://datashapes.org/dash#> .
 @prefix dc:    <http://purl.org/dc/elements/1.1/> .
 
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/9d7e7259-c526-44cd-bcc5-32acb63af9bd>
+        rdf:type                  schema:ContactPoint ;
+        schema:availableLanguage  "en" ;
+        schema:contactType        "Student" ;
+        schema:email              "milena.atanasova@studenti.unitn.it" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/ad3e7bcc-453e-41f7-ba3d-716e7a22e656>
+        rdf:type         skos:Concept ;
+        skos:definition  "Teleology concerns the informal modeling phase of building a knowledge graph" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/44404d43-2a65-4bab-aa69-650874c665d8> ;
+        skos:prefLabel   "Teleology" .
+
 <https://www.epos-eu.org/epos-dcat-ap#Distribution/95552f13-a1cb-44d3-9c89-66877fe937d1>
         rdf:type         dcat:Distribution ;
         dct:description  "A teleology model built for the project Digital University Theses, Publications and Staff" ;
@@ -34,10 +46,18 @@
         dct:language     "en" ;
         dcat:accessURL   "https://github.com/atanasova16/TrentinoDUniTPS/tree/main/Teleologies/Informal%20Modeling"^^xsd:anyURI .
 
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/44404d43-2a65-4bab-aa69-650874c665d8>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Entities, data and object properties for the teleology of the project Digital University" ;
+        dct:title        "Teleology Digital University Theses, Publications, and Staff" .
+
 <https://www.epos-eu.org/epos-dcat-ap#Dataset/a5ecca98-9095-455c-9418-334536841165>
         rdf:type           dcat:Dataset ;
         dct:description    "Teleology model for the project Digital University Theses, Publications and Stuff." ;
-        dct:identifier     "http://www.semanticweb.org/user/ontologies/2022/10/teleology"^^xsd:anyURI ;
+        dct:identifier     "https://knowdive.disi.unitn.it/etype#" ;
         dct:language       "en" ;
         dct:title          "Teleology" ;
-        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/95552f13-a1cb-44d3-9c89-66877fe937d1> .
+        dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/9d7e7259-c526-44cd-bcc5-32acb63af9bd> ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/95552f13-a1cb-44d3-9c89-66877fe937d1> ;
+        dcat:keyword       "Protege" , "entities" , "teleology" , "knowledge graph" , "properties" , "iTelos" ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/ad3e7bcc-453e-41f7-ba3d-716e7a22e656> .
