@@ -1,0 +1,62 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/32b31b21-a58a-4dcf-b2a3-e5fc5f31dc90>
+        rdf:type                  schema:ContactPoint ;
+        schema:availableLanguage  "en" , "it" ;
+        schema:contactType        "Student" ;
+        schema:email              "milena.atanasova@studenti.unitn.it" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/4f82bf8f-6014-461e-a123-0b784d82314d>
+        rdf:type           dcat:Dataset ;
+        dct:description    "Inception sheet for a Knowledge Graph Engineering project following the iTelos methodology" ;
+        dct:identifier     "PFSheet-DUTPS_finalversion" ;
+        dct:issued         "2022-12-03T14:08:09Z"^^xsd:dateTime ;
+        dct:language       "en" ;
+        dct:title          "Inception Sheet" ;
+        dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/32b31b21-a58a-4dcf-b2a3-e5fc5f31dc90> ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/6b2d0814-0661-4e7b-b76f-626411d55c22> ;
+        dcat:keyword       "inception" , "sheet" , "iTelos" , "purpose formalization" , "knowledge graph" ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/3ea9db81-8fde-430d-9686-ebe9a156f385> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/3ea9db81-8fde-430d-9686-ebe9a156f385>
+        rdf:type         skos:Concept ;
+        skos:definition  "Purpose formalization is the phase when the initial user purpose is being researched to extract important entities for a knowledge graph" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/8cceba54-0ccc-4804-b6e5-90c1f1181c91> ;
+        skos:prefLabel   "Purpose formalization" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/6b2d0814-0661-4e7b-b76f-626411d55c22>
+        rdf:type         dcat:Distribution ;
+        dct:description  "An inception sheet including scenarios, personas, competency questions and entities for a KGE project following iTelos. This particular concerns the project Digital University These, Publications, and Staff" ;
+        dct:format       "xlsx" ;
+        dct:identifier   "PFSheet_DUTPS" ;
+        dct:language     "en" ;
+        dcat:accessURL   "https://github.com/atanasova16/TrentinoDUniTPS/blob/main/Teleologies/Inception/PFSheet_DUTPS_finalversion.xlsx"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/8cceba54-0ccc-4804-b6e5-90c1f1181c91>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "The purpose formalization specific for Digital University concept" .
