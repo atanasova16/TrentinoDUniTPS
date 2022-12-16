@@ -1,0 +1,65 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/923e10c4-f659-49c4-9f44-3cf2f3f195ab>
+        rdf:type         skos:Concept ;
+        skos:definition  "Ontology for a Knowledge graph" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/cadbf35a-1893-4c62-b1eb-5164f2848b1c> ;
+        skos:prefLabel   "Ontology" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/a2819333-1fd2-4796-b8f5-201090009a9d>
+        rdf:type  schema:ContactPoint .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/67191ce0-11f1-4d6a-be0f-389ac825fbea>
+        rdf:type         dcat:Distribution ;
+        dct:description  "Ontology built by combining knowledge sources for the project Digital University Theses, Publications and Staff" ;
+        dct:format       "owl" ;
+        dct:identifier   "https://knowdive.disi.unitn.it/etype#" ;
+        dct:issued       "2022-12-03T11:58:42Z"^^xsd:dateTime ;
+        dct:language     "en" ;
+        dcat:accessURL   "https://github.com/atanasova16/TrentinoDUniTPS/blob/main/Teleologies/Informal%20Modeling/ontology2.owl"^^xsd:anyURI .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/cadbf35a-1893-4c62-b1eb-5164f2848b1c>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Ontology created with Protege about entities from schemas for the Digital University project" ;
+        dct:title        "Ontology Digital University" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/4ee429f9-0a4f-474f-9123-a030bd922fd6>
+        rdf:type  schema:ContactPoint .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/c3cb5184-42a3-4349-9d03-02c22501e6ca>
+        rdf:type           dcat:Dataset ;
+        dct:created        "2022-12-02T18:52:29Z"^^xsd:dateTime ;
+        dct:description    "The ontology constructed for the project about Digital University built from various ontologies" ;
+        dct:identifier     "https://knowdive.disi.unitn.it/etype#" ;
+        dct:issued         "2022-12-02T19:52:29Z"^^xsd:dateTime ;
+        dct:language       "en" ;
+        dct:title          "Ontology Digital University Theses, Publications and Staff" ;
+        dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/4ee429f9-0a4f-474f-9123-a030bd922fd6> ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/67191ce0-11f1-4d6a-be0f-389ac825fbea> ;
+        dcat:keyword       "protege" , "ontology" , "schemas" , "data properties" , "object properties" , "entities" , "knowledge graph" ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/923e10c4-f659-49c4-9f44-3cf2f3f195ab> .
