@@ -1,0 +1,16 @@
+#professors at department of physics
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT DISTINCT ?name ?surname ?phone WHERE{
+    ?staff a <http://knowdive.disi.unitn.it/etype#ds:Staff_person_GID-45612> ;
+           <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-45612> ?name ;
+    <http://knowdive.disi.unitn.it/etype#has_surname_GID-34003_Type-45612> ?surname ; 
+    <http://knowdive.disi.unitn.it/etype#has_phone_GID-34494_Type-45612> ?phone ;
+    <http://knowdive.disi.unitn.it/etype#has_position_GID-3017_Type-45612> ?position .
+    ?position a <http://knowdive.disi.unitn.it/etype#ds:Position> ;
+              <http://knowdive.disi.unitn.it/etype#has_affiliation_to_GID-43546> ?dep ;
+              <http://knowdive.disi.unitn.it/etype#has_position_role_GID-3735> ?role .
+    ?dep a <http://knowdive.disi.unitn.it/etype#ds:Department> ;
+    <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> ?namedep .
+    FILTER(?namedep = "Dipartimento di Matematica" &&
+    ?role = "Full professor" )    
+}

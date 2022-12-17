@@ -1,0 +1,16 @@
+#Pubs matching substring
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT DISTINCT ?title ?filelink ?name ?surname ?phone 
+WHERE
+{ ?pub a <http://knowdive.disi.unitn.it/etype#ds:Publication_GID-300001> ;
+         <http://knowdive.disi.unitn.it/etype#has_pub_title_GID-34061_Type-300001> ?title ;
+         <http://knowdive.disi.unitn.it/etype#has_representation_GID-104395_Type-300001> ?file;
+    <http://knowdive.disi.unitn.it/etype#has_author_GID-58221> ?author .
+         { ?author rdf:type <http://knowdive.disi.unitn.it/etype#ds:Author_GID-58221> } 
+  UNION { ?author rdf:type <http://knowdive.disi.unitn.it/etype#ds:Staff_person_GID-45612> } .
+    ?author <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-45612> ?name;
+            <http://knowdive.disi.unitn.it/etype#has_surname_GID-34003_Type-45612> ?surname;
+            <http://knowdive.disi.unitn.it/etype#has_phone_GID-34494_Type-45612> ?phone. 
+        ?file a <http://knowdive.disi.unitn.it/etype#ds:File_GID-300003> ;
+          <http://knowdive.disi.unitn.it/etype#has_file_link_GID-300007_Type-300003> ?filelink .
+  FILTER regex(?title, "intelligenza artificiale", "i") }

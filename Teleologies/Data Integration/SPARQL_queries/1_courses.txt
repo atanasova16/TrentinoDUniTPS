@@ -1,0 +1,15 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+#Courses of study at UniTn with department information:
+select ?namedeg ?namedep ?director ?address ?website where {
+    ?deg a <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> ;
+    <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> ?namedeg.
+    ?deg <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> ?dep .
+    ?dep a <http://knowdive.disi.unitn.it/etype#ds:Department> ;
+    <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> ?namedep ;
+    <http://knowdive.disi.unitn.it/etype#has_department_director_GID-300004> ?director ;
+    <http://knowdive.disi.unitn.it/etype#has_department_address_GID-45803> ?address ;
+    <http://knowdive.disi.unitn.it/etype#has_department_website_GID-34126> ?website.
+    FILTER(?namedep = "Dipartimento di Sociologia e Ricerca Sociale") .
+}

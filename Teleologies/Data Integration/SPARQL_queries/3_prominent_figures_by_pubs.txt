@@ -1,0 +1,23 @@
+#Counts of pubs by authors who are also staff person having positions affiliated to departments
+SELECT (count(?title) as ?countpubs) ?name ?surname ?role ?namedep ?phone
+WHERE {
+    ?pub a <http://knowdive.disi.unitn.it/etype#ds:Publication_GID-300001> ;
+         <http://knowdive.disi.unitn.it/etype#has_pub_title_GID-34061_Type-300001> ?title ;
+    <http://knowdive.disi.unitn.it/etype#has_representation_GID-104395_Type-300001> ?file;
+    <http://knowdive.disi.unitn.it/etype#has_author_GID-58221> ?entity .
+  { ?entity rdf:type <http://knowdive.disi.unitn.it/etype#ds:Author_GID-58221> }
+  UNION { ?entity rdf:type <http://knowdive.disi.unitn.it/etype#ds:Staff_person_GID-45612> } .
+    
+    ?entity <http://knowdive.disi.unitn.it/etype#has_position_GID-3017_Type-45612> ?position ;
+            <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-45612> ?name;
+            <http://knowdive.disi.unitn.it/etype#has_surname_GID-34003_Type-45612> ?surname;
+            <http://knowdive.disi.unitn.it/etype#has_phone_GID-34494_Type-45612> ?phone.   
+    ?position a <http://knowdive.disi.unitn.it/etype#ds:Position> ;
+             <http://knowdive.disi.unitn.it/etype#has_position_role_GID-3735> ?role ;
+             <http://knowdive.disi.unitn.it/etype#has_affiliation_to_GID-43546> ?department .
+    ?department a <http://knowdive.disi.unitn.it/etype#ds:Department> ;
+    <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> ?namedep .
+FILTER(?namedep = "Dipartimento di Ingegneria e Scienza dell'Informazione")
+} GROUP BY ?name ?surname ?role ?namedep ?phone
+ORDER BY desc(?countpubs)
+

@@ -1,0 +1,15 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+#numbers of theses from a specific department
+select ?namedep (count(?thesis) as ?counttheses) where {
+    ?thesis a <http://knowdive.disi.unitn.it/etype#ds:Thesis_GID-34396> ;
+    <http://knowdive.disi.unitn.it/etype#has_title_GID-34061_Type-34396> ?namethesis . 
+    ?thesis <http://knowdive.disi.unitn.it/etype#has_affiliation_to_GID-43546> ?deg .
+    ?deg a <http://knowdive.disi.unitn.it/etype#ds:Degree_GID-35898> ;
+    <http://knowdive.disi.unitn.it/etype#has_degree_name_GID-35898_Type-35898> ?namedeg . 
+    ?deg <http://knowdive.disi.unitn.it/etype#has_department_GID-43988_Type-35898> ?dep .
+    ?dep a <http://knowdive.disi.unitn.it/etype#ds:Department> ;
+         <http://knowdive.disi.unitn.it/etype#has_department_name_GID-43988> ?namedep .
+    } GROUP BY ?namedep 
+ORDER BY desc(?counttheses)

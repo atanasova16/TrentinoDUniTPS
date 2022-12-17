@@ -1,0 +1,18 @@
+#Publications in ENglish
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT DISTINCT ?title ?year ?type ?filelink
+WHERE {
+    ?pub a <http://knowdive.disi.unitn.it/etype#ds:Publication_GID-300001> ;
+         <http://knowdive.disi.unitn.it/etype#has_pub_title_GID-34061_Type-300001> ?title ;
+    <http://knowdive.disi.unitn.it/etype#has_representation_GID-104395_Type-300001> ?file;
+    <http://knowdive.disi.unitn.it/etype#has_author_GID-58221> ?author ;
+    <http://knowdive.disi.unitn.it/etype#has_pub_year_GID-80974_Type-300001> ?year ;
+    <http://knowdive.disi.unitn.it/etype#has_language_GID-33843_Type-300001> ?lang ;
+    <http://knowdive.disi.unitn.it/etype#has_pub_type_GID-31834_Type-300001> ?type.
+    ?file a <http://knowdive.disi.unitn.it/etype#ds:File_GID-300003> ;
+          <http://knowdive.disi.unitn.it/etype#has_file_link_GID-300007_Type-300003> ?filelink .
+?author a <http://knowdive.disi.unitn.it/etype#ds:Author_GID-58221> ;
+<http://knowdive.disi.unitn.it/etype#has_author_name_GID-2_Type-58221> ?name ;
+ <http://knowdive.disi.unitn.it/etype#has_author_surname_GID-34003_Type-58221> ?surname.
+    FILTER(?lang = "inglese" && ?filelink != "NOT_PRESENT")
+}
