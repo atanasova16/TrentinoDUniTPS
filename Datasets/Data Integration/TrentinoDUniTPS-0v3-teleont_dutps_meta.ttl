@@ -1,0 +1,65 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/8b12c36b-078a-4cff-a940-e9e79311495b>
+        rdf:type           dcat:Dataset ;
+        dct:description    "Teleontology built for the project Digital University These Publications and Staff" ;
+        dct:identifier     "https://knowdive.disi.unitn.it/etype#"^^xsd:anyURI ;
+        dct:issued         "2022-12-03T14:08:03Z"^^xsd:dateTime ;
+        dct:language       "en" ;
+        dct:title          "Teleontology" ;
+        dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/fe6c2697-cd86-43a6-a7b9-ec3ac915d4ec> ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/5e814875-c050-462e-8573-8e4ea4210dab> ;
+        dcat:keyword       "knowledge graph" , "properties" , "language annotation" , "entities" , "teleontology" ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/29296612-5793-4666-bcd8-21b88dd27859> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/5e814875-c050-462e-8573-8e4ea4210dab>
+        rdf:type         dcat:Distribution ;
+        dct:description  "Teleontology for the project Digital University Theses, Publications and Staff, built by combining the previously defined teleology and the identified ontology. 
+It is annotated according to the language annotation" ;
+        dct:format       "owl" ;
+        dct:identifier   "https://knowdive.disi.unitn.it/etype#"^^xsd:anyURI ;
+        dct:issued       "2022-12-03T13:23:14Z"^^xsd:dateTime ;
+        dct:language     "en" ;
+        dcat:accessURL   "https://github.com/atanasova16/TrentinoDUniTPS/blob/main/Teleologies/Formal%20Modeling/TrentinoDUniTPS-5v0-annotatedETG.owl" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/fe6c2697-cd86-43a6-a7b9-ec3ac915d4ec>
+        rdf:type                  schema:ContactPoint ;
+        schema:availableLanguage  "it" , "en" ;
+        schema:contactType        "Student" ;
+        schema:email              "milena.atanasova@studenti.unitn.it" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/3900322c-b407-4f92-bd8d-3c190702f523>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Theses, Publications and stuff for a Digital University" ;
+        dct:title        "Digital University" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/29296612-5793-4666-bcd8-21b88dd27859>
+        rdf:type         skos:Concept ;
+        skos:definition  "Digital University ontology, defining the entities, object and data properties" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/3900322c-b407-4f92-bd8d-3c190702f523> ;
+        skos:prefLabel   "Teleontology" .
