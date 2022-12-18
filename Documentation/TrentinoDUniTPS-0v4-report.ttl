@@ -1,0 +1,62 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix dqv:   <http://www.w3.org/ns/dqv#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/eddcb1e2-ed5c-4cab-bcbe-ceaa79071b14>
+        rdf:type         dcat:Distribution ;
+        dct:description  "Final report for the project of building a complete knowledge graph for the course of Knowledge Graph Engineering at University of Trento, based on the template by Knowdive." ;
+        dct:format       "pdf" ;
+        dct:identifier   "PresentationKGE_DUTPS" ;
+        dct:language     "en" ;
+        dcat:accessURL   "https://github.com/atanasova16/TrentinoDUniTPS/tree/main/Documentation" .
+
+<https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/b316096c-fa32-4067-a21c-7114daa5a102>
+        rdf:type         skos:ConceptScheme ;
+        dct:description  "Knowledge graph about the subject of Digital University Theses, Publications, and Staff" ;
+        dct:title        "Report KGE Digital University" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/18b148da-0575-4e0b-a54f-5357995e9af2>
+        rdf:type           dcat:Dataset ;
+        dct:created        "2022-12-17T10:34:35Z"^^xsd:dateTime ;
+        dct:description    "Final Report for the course Knowledge Graph Engineering at University of Trento" ;
+        dct:identifier     "FinalReportKGE" ;
+        dct:title          "Report KGE" ;
+        dcat:contactPoint  <https://www.epos-eu.org/epos-dcat-ap#ContactPoint/5b0d83a0-fd5b-4ca0-bf15-0d60503f6ada> ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/eddcb1e2-ed5c-4cab-bcbe-ceaa79071b14> ;
+        dcat:keyword       "teleontology" , "report" , "knowledge graph" , "University of Trento" ;
+        dcat:theme         <https://www.epos-eu.org/epos-dcat-ap#Concept/ee95ce0d-fad1-41fc-b193-9aca69fa23e7> .
+
+<https://www.epos-eu.org/epos-dcat-ap#ContactPoint/5b0d83a0-fd5b-4ca0-bf15-0d60503f6ada>
+        rdf:type                  schema:ContactPoint ;
+        schema:availableLanguage  "bg" , "it" , "en" ;
+        schema:contactType        "Student" ;
+        schema:email              "milena.atanasova@studenti.unitn.it" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Concept/ee95ce0d-fad1-41fc-b193-9aca69fa23e7>
+        rdf:type         skos:Concept ;
+        skos:definition  "Knowledge graph engineering report" ;
+        skos:inScheme    <https://www.epos-eu.org/epos-dcat-ap#ConceptScheme/b316096c-fa32-4067-a21c-7114daa5a102> ;
+        skos:prefLabel   "Project report" .
